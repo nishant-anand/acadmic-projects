@@ -1,0 +1,807 @@
+﻿Speaker,Dialoge,Recipient,Scene
+Dumbledore,I should have known that you would be here...Professor McGonagall.,McGonagall,1
+McGonagall,"Good evening, Professor Dumbledore. Are the rumours true, Albus?",Dumbledore,1
+Dumbledore,"I'm afraid so, Professor. The good, and the bad.",McGonagall,1
+McGonagall,And the boy?,Dumbledore,1
+Dumbledore,Hagrid is bringing him.,McGonagall,1
+McGonagall,Do you think it wise to trust Hagrid with something as important as this?,Dumbledore,1
+Dumbledore,"Ah, Professor, I would trust Hagrid with my life.",McGonagall,1
+Hagrid,"Professor Dumbledore, Sir. Professor McGonagall.",Dumbledore,1
+Dumbledore,"No problems, I trust, Hagrid?",Hagrid,1
+Hagrid,"No, sir. Little tyke fell asleep just as we were flying over Bristol. Heh. Try not to wake him. There you go.",Dumbledore,1
+McGonagall,"Albus, do you really think its safe, leaving him with these people? I've been watching them all day. They're the worst sort of Muggles imaginable. They really are",Hagrid,1
+Dumbledore,The only family he has.,McGonagall,1
+McGonagall,This boy will be famous. There wont be a child in our world who doesn't know his name.,Dumbledore,1
+Dumbledore,Exactly. He's better off growing up away from all that. Until he is ready.,McGonagall,1
+Dumbledore,"There, there, Hagrid. It's not really good-bye, after all.",Dumbledore,1
+Dumbledore,Good luck...Harry Potter.,Dumbledore,1
+Dudley,"Wake up, cousin! We're going to the zoo!",Petunia,1
+Petunia,"Oh, here he comes, the birthday boy!",Dudley,1
+Vernon,"Happy birthday, son.",Petunia,1
+Petunia,"Why don't you just cook the breakfast, and try not to burn anything.",Vernon,1
+Harry,"Yes, Aunt Petunia.",Petunia,1
+Petunia,I want everything to be perfect for my Dudley's special day.,Harry,1
+Vernon,"Hurry up! Bring my coffee, boy!",Petunia,1
+Harry,"Yes, Uncle Vernon.",Vernon,1
+Dudley,How many are there?,Harry,1
+Vernon,Thirty-six. Counted 'em myself.,Dudley,1
+Dudley,Thirty-six?! But last year last year I got thirty-seven!!,Vernon,1
+Vernon,"Yes, well, some of them are quite a bit bigger than last year!",Dudley,1
+Dudley,I don't care how big they are!,Vernon,2
+Petunia,"Oh, now, now, now. This is what we're going to do, is that when we go out we're going to buy you two new presents! How's that, Pumpkin?",Dudley,2
+Petunia,This will be a lovely day at the zoo. I'm really looking forward to it.,Vernon,2
+Vernon,"I'm warning you now, boy. Any funny business, any at all, and you won't have any meals for a week. Get in.",Petunia,2
+Dudley,Make it move.,Vernon,3
+Vernon,Move!,Dudley,3
+Dudley,MOVE!,Vernon,3
+Harry,He's asleep!,Dudley,3
+Dudley,He's boring.,Harry,3
+Harry,"Sorry about him. He doesn't understand what it's like, lying there day after day, having people press their ugly faces in on you.",Dudley,3
+Harry," I see. That's me as well. I never knew my parents, either. It's just...I've never talked to a snake before. Do you...I mean...do you talk to people often?  You're from Burma, aren't you? Was it nice there, do you miss your family? Can you...hear me? ",Harry,3
+Dudley,"Mummy, dad, come here! You won't believe what this snake is doing!!",Harry,3
+Dudley,Whoa! Ahh! Ahh!!,Dudley,3
+Snake,Thankssssssss.,Dudley,3
+Harry,Anytime.,Snake,3
+Man,SNAKE!,Harry,3
+Dudley,"Mum, mummy!",Man,3
+Petunia, AHH!,Dudley,3
+Dudley,"Mum, help! Help me!",Petunia,3
+Petunia,My darling boy! How did you get in there?!,Dudley,3
+Petunia,It's all right. It's all right.,Harry,3
+Harry,Ow!,Petunia,4
+Vernon,What happened?,Harry,4
+Harry,I swear I don't know! One minute the glass was there and then it was gone! It was like magic!,Vernon,4
+Vernon, There's no such thing as magic!,Harry,5
+Vernon,"Ah, Marge is ill. Ate a funny whelk.",Dudley,5
+Dudley," Dad, look! Harry's got a letter!!",Vernon,5
+Harry,"Hey, give it back! It's mine!",Dudley,5
+Vernon, Yours? Who'd be writing to you?,Harry,5
+Vernon,No more mail through this letterbox.,Scene,6
+Petunia,"Have a lovely day at the office, dear.",Vernon,7
+Vernon,Shoo! Go on!,Petunia,7
+Vernon,"Fine day Sunday. In my opinion, best day of the week. Why is that, Dudley?",Harry,8
+Harry," Because there's no post on Sunday? Ah, right you are, Harry. No post on Sunday. Hah! No blasted letters today. No, sir.  No sir, not one blasted, miserable---",Vernon,8
+Dudley,AHH! Make it stop! Please make it stop! ,Harry,8
+Vernon,"Go away, ahh!",Dudley,8
+Dudley,What is it? Please tell me what's happening!,Vernon,8
+Vernon,Give me that! Give me that letter!,Dudley,8
+Harry,Get off! Ahh!,Vernon,8
+Vernon,Ahh!,Harry,8
+Harry,They're my letters! Let go of me!,Vernon,8
+Vernon,That's it! We're going away! Far away! Where they can't find us!,Harry,8
+Dudley,"Daddy's gone mad, hasnt he?!",Vernon,8
+Vernon,Who's there? Ahh!,Harry,9
+Hagrid,Sorry 'bout that. ,Vernon,9
+Vernon,"I demand that you leave at once, Sir! You are breaking and entering!",Hagrid,9
+Petunia,Ooh.,Vernon,9
+Hagrid,"Dry up, Dursley, you great prune. ",Petunia,9
+All,Ahh!,Hagrid,9
+Hagrid," Mind, I haven't seen you since you was a baby, Harry, but you're a bit more along than I would have expected. Particularly 'round the middle!",All,9
+Dudley,I-I-I'm not Harry.,Hagrid,9
+Harry,I-I am.,Dudley,9
+Hagrid," Words and all. Heh.Oh, well, of course you are! Got something for ya. 'Fraid I might have sat on it at some point! I imagine that it'll taste fine just the same. Ahh. Baked it myself. ",Harry,9
+Harry,Thank you! ,Hagrid,9
+Hagrid,"It's not every day that your young man turns eleven, now is it?",Harry,9
+Harry," Excuse me, who are you?",Hagrid,9
+Hagrid,"Rubeus Hagrid. Keeper of keys and grounds at Hogwarts. Course, you'll know all about Hogwarts.",Harry,9
+Harry,"Sorry, no.",Hagrid,9
+Hagrid,"No? Blimey, Harry, didn't you ever wonder where your mum and dad learned it all?",Harry,9
+Harry,Learnt what?,Hagrid,9
+Hagrid,"You're a wizard, Harry.",Harry,9
+Harry,I-I'm a what?,Hagrid,9
+Harry,"A wizard. And a thumping good one at that, I'd wager. Once you train up a little.",Harry,9
+Harry,"No, you've made a mistake. I can't be...a-a wizard. I mean, I'm just... Harry. Just Harry.",Harry,9
+Hagrid," Ah.Well, Just Harry, did you ever make anything happen? Anything you couldn't explain when you were angry or scared? ",Harry,9
+Harry,"Dear, Mr. Potter. We are pleased to inform you that you have been accepted at Hogwarts' School of Witchcraft and Wizardry!",Vernon,9
+Vernon,Hell not be going! We swore when we took him in wed put an end to this rubbish!,Harry,9
+Harry,You knew?? You knew all along and you never told me?,Vernon,9
+Petunia,"Of course we knew. How could you not be? My perfect sister being who she was. Oh, my mother and father were so proud the day she got her letter. We have a witch in the family. Isn't it wonderful? I was the only one to see her for what she was. A freak! And then she met that Potter, and then she had you, and I knew you'd be just the same, just as strange, just as ... abnormal. And then, if you please, she went and got herself blown up! And we got landed with you.",Harry,9
+Harry,Blown up? You told me my parents died in a car crash!,Petunia,9
+Hagrid,A car crash? A car crash kill James and Lily Potter?,Harry,9
+Petunia,We had to tell him something.,Hagrid,9
+Hagrid,It's an outrage! It's a scandal!,Petunia,9
+Vernon,He'll not be going!,Hagrid,9
+Hagrid,"Oh, and I suppose a great Muggle like yourself's going to stop him, are you?",Vernon,9
+Harry,Muggle?,Hagrid,9
+Hagrid,"Non magic folk. This boy's had his name down ever since he was born! He's going to the finest school of witchcraft and wizardry in the world, and he'll be under the greatest headmaster Hogwarts' has ever seen: Albus Dumbledore.",Harry,9
+Vernon,I will not pay for some crackpot old fool to teach him magic tricks!,Hagrid,9
+Hagrid, Never insult Albus Dumbledore in front of me.,Vernon,9
+Dudley,Ahh!,Hagrid,9
+All,Ahh! ,Dudley,9
+Hagrid,"Oh, um, I'd appreciate if you didn't tell anyone at Hogwarts about that. Strictly speaking, I'm not allowed to do magic.",Harry,9
+Harry, Okay.,Hagrid,9
+Hagrid," Ooh, we're a bit behind schedule. Best be off. Unless you'd rather stay, of course. Hmm? ",Harry,9
+Harry,"All students must be equipped with...one standard size two pewter cauldron and may bring if they desire either an owl, a cat or a toad. Can we find all this in London?",Hagrid,10
+Hagrid,If you know where to go.,Harry,10
+Barkeep Tom,"Ah, Hagrid! The usual, I presume?",Hagrid,10
+Hagrid,"No thanks, Tom. I'm on official Hogwarts business today. Just helping young Harry here buy his school supplies.",Barkeep Tom,10
+Tom,Bless my soul. It's Harry Potter.,Hagrid,10
+Man,"Welcome back, Mr. Potter, welcome back.",Tom,10
+Witch,"Doris Crockford, Mr. Potter. I can't believe I'm meeting you at last.",Man,10
+Quirrell,Harry P-potter. C-can't tell you how pleased I am to meet you.,Witch,10
+Hagrid,"Hello, Professor. I didn't see you there. Harry, this is Professor Quirrell. He'll be your Defense Against the Dark Arts teacher at Hogwarts.",Quirrell,10
+Harry,"Oh, nice to meet you. ",Hagrid,10
+Quirrell,"F-fearfully fascinating subject. N-not that you need it, e-eh, Potter? Heheh.",Harry,10
+Hagrid,"Yes, well, must be going now. Lots to buy. Heh.",Quirrell,10
+Harry,Good-bye.,Hagrid,10
+Hagrid,"See, Harry, you're famous!",Harry,10
+Harry,"But why am I famous, Hagrid? All those people back there, how is it they know who I am?",Hagrid,10
+Hagrid,"I'm not exactly sure I'm the right person to tell you that, Harry. ",Harry,10
+Hagrid,"Here's where you'll get your quills and ink, and over there all your bits and bobs for doing your wizardry.",Hagrid,10
+Boy,"It's a world class racing broom. Look at it, its the new Nimbus 2000! It's the fastest model yet.",Hagrid,10
+Harry,"But, Hagrid, how am I to pay for all this? I haven't any money.",Boy,10
+Hagrid,"Well there's your money, Harry. Gringotts, the Wizard Bank. T'aint no place safer, 'cept perhaps Hogwarts.",Harry,10
+Harry,"Uh, Hagrid, what exactly are those things?",Hagrid,10
+Hagrid,"  Mr. Harry Potter wishes to make a withdrawal.They're goblins, Harry. Clever as they come goblins but not the most friendly of beasts. Best stick close to me. ",Harry,10
+Goblin,And does Mr. Harry Potter have his key?,Hagrid,10
+Hagrid,"Oh. Wait a minute. Got it here somewhere. Hah. Here's the little devil. Oh, and there's something else as well. Professor Dumbledore gave me this. It's about you-know-what in vault you-know-which. ",Goblin,10
+Goblin,Very well.,Hagrid,10
+Griphook," Key please. Vault 687. Lamp, please. ",Hagrid,11
+Hagrid,"Didn't think your mum and dad would leave you with nothing, now didja?",Griphook,11
+Griphook,Vault 713.,Hagrid,11
+Harry,"What's in there, Hagrid?",Griphook,11
+Hagrid,"Can't tell you, Harry. It's Hogwarts business. Very secret.",Harry,11
+Griphook,Stand back. ,Hagrid,11
+Hagrid,"Best not mention this to anyone, Harry.",Griphook,11
+Hagrid,"A wand? Well, you'll want Ollivanders. No place better. Run along there, but wait. I just got one more thing I got to do. Won't be long.",Harry,12
+Harry, Hello? Hello?,Hagrid,12
+Ollivander," Ah. Here we are.  Well, give it a wave.I wondered when I'd be seeing you, Mr. Potter. It seems only yesterday that your mother and father were in here buying their first wands. ",Harry,12
+Harry,Oh! ,Ollivander,12
+Ollivander," Curious, very curious. I wonder.  No, no, definitely not! No matter... Perhaps this. Apparently not. ",Harry,12
+Harry,"Sorry, but what's curious?",Ollivander,12
+Ollivander,"I remember every wand I've ever sold, Mr. Potter. It just so happens that the phoenix, whose tail feather resides in your wand gave one other feather, just one. It is curious that you should be destined for this wand when its brother gave you that scar. ",Harry,12
+Harry,And...who owned that wand?,Ollivander,12
+Ollivander,"Oh, we do not speak his name. The wand chooses the wizard, Mr. Potter. It's not always clear why, but I think it is clear that we can expect great things from you. After all, He-Who-Must-Not-Be-Named did great things...terrible, yes, but great. ",Harry,12
+Hagrid,Harry! Harry! Happy birthday! ,Ollivander,12
+Harry,Wow.,Hagrid,12
+Harry,"He killed my parents, didn't he? The one who gave me this. You know, Hagrid, I know you do.",Hagrid,13
+Hagrid," First, and understand this, Harry, 'cause it's very important. Not all wizards are good. Some of them go bad. A few years ago there was one wizard who went as bad as you can go. And his name was V-...his name was V-...",Harry,13
+Harry,Maybe if you wrote it down?,Hagrid,13
+Hagrid,"No, I can't spell it. All right. His name was Voldemort.",Harry,13
+Harry,Voldemort?,Hagrid,13
+Hagrid,Shh!!,Harry,13
+Hagrid," Nobody...not one. Except you. It was dark times, Harry, dark times. Voldemort started to gather some followers, brought 'em over to the dark side. Anyone that stood up to him ended up dead. Your parents fought against him, but nobody lived once he decided to kill 'em. ",Hagrid,13
+Harry,Me? Voldemort tried to kill...me?,Hagrid,13
+Hagrid,"Yes. That ain't no ordinary cut on your forehead, Harry. A mark like that only comes from being touched by a curse...and an evil curse at that.",Harry,13
+Harry,What happened to Vo-...to You-Know-Who?,Hagrid,13
+Hagrid,"Some say he died. Codswallop in my opinion. Nope, I reckon he's out there, still, too tired to go on. But one thing's absolutely certain. Something about you stumped him that night. That's why you're famous, Harry. That's why everbody knows your name. You're the boy who lived.",Harry,13
+Harry,"Platform 9 ¾? But Hagrid, there must be a mistake. This says Platform 9 ¾. There's no such thing...is there? ",Hagrid,14
+Harry,"Excuse me, excuse me.",Man,15
+Trainmaster," Right on your left, ma'am.",Harry,15
+Harry,"Excuse me, Sir. Can you tell me where I might find Platform 9 ¾?",Trainmaster,15
+Trainmaster,"9 ¾? Think youre being funny, do ya? ",Harry,15
+Mrs. Weasley,"It's the same year after year. Always packed with Muggles, of course.",Trainmaster,15
+Harry,Muggles?,Mrs. Weasley,15
+Mrs. Weasley,"Come on. Platform 9 ¾ this way! All right, Percy, you first.",Harry,15
+Mrs. Weasley,"Fred, you next.",Mrs. Weasley,15
+George,"He's not Fred, I am!",Mrs. Weasley,15
+Fred,"Honestly, woman, you call yourself our mother!",George,15
+Mrs. Weasley,"Oh, I'm sorry, George.",Fred,15
+Fred,I'm only joking. I am Fred. ,Mrs. Weasley,15
+Harry,Excuse me! C-could you tell me how to,Fred,15
+Mrs. Weasley," Now, all you've got to do is walk straight at the wall between platforms 9 and 10. Best do it at a bit of a run if youre nervous.How to get on the platform? Yes, not to worry, dear. It's Ron's first time to Hogwarts as well. ",Harry,15
+Ginny,Good luck.,Mrs. Weasley,16
+Harry,"No, not at all.",Ron,16
+Ron," I'm Ron, by the way. Ron Weasley.",Harry,16
+Harry,I'm Harry. Harry Potter.,Ron,16
+Ron,"So-so it's true?! I mean, do you really have the...the...",Harry,16
+Harry,The what?,Ron,16
+Ron, Scar...?,Harry,16
+Harry,"Oh, yeah. ",Ron,16
+Ron,Wicked.,Harry,16
+Woman,"Anything off the trolley, dears?",Ron,16
+Ron," No, thanks, I'm all set. ",Woman,16
+Harry, We'll take the lot!,Ron,16
+Ron,Whoa!,Harry,16
+Ron,"They mean every flavour! There's chocolate and peppermint, and there's also spinach, liver and tripe. George sweared he got a bogey-flavoured one once!",Harry,17
+Harry," These aren't real chocolate frogs, are they?",Ron,17
+Ron,"It's only a spell. Besides, it's the cards you want. Each pack's got a famous witch or wizard. I got about 500 meself.",Harry,17
+Frog,Ribbit. ,Ron,17
+Ron,"Oh, that's rotten luck. They've only got one good jump in them to begin with.",Frog,17
+Harry,"Hey, I got Dumbledore!",Ron,17
+Ron,I got about 6 of him.,Harry,17
+Harry,"Hey, he's gone!",Ron,17
+Ron," This is Scabbers, by the way, pitiful, isn't he?Well, you can't expect him to hang around all day, can you? ",Harry,17
+Harry,Just a little bit.,Ron,17
+Ron,Fred gave me a spell as to turn him yellow. Want to see?,Harry,17
+Harry,Yeah!,Ron,17
+Ron, Ahem. Sun-,Harry,17
+Hermione,Has anyone seen a toad? A boy named Neville's lost one.,Ron,17
+Ron,No.,Hermione,17
+Hermione,"Oh, are you doing magic? Let's see then.",Ron,17
+Ron,"Aghhhemm. Sunshine, daises, butter mellow, turn this stupid fat rat yellow!",Hermione,17
+Hermione," Oculus Reparo.  That's better, isn't it? Holy Cricket, you're Harry Potter. I'm Hermione Granger...and you are...?Are you sure that's a real spell? Well, it's not very good, is it? Of course I've only tried a few simple spells myself, and they've all worked for me. For example...",Ron,17
+Ron, I'm...Ron Weasley.,Hermione,17
+Hermione,"  You've got dirt, on your nose, by the way, did you know? Just there. Pleasure. You two better change into your robes. I expect we'll be arriving soon. ",Ron,17
+Hagrid,"Hello, Harry.",Hagrid,18
+Harry,"Hey, Hagrid.",Hagrid,18
+Ron,Whoaa!,Harry,18
+Hagrid,"Right then. This way to the boats! Come on, now, follow me.",Ron,18
+Ron,Wicked.,Scene,19
+Neville, Sorry. Trevor! ,McGonagall,20
+McGonagall,The sorting ceremony will begin momentarily. ,Neville,20
+Draco," Think my name's funny, do you? No need to ask yours. Red hair, and a hand me down robe? You must be a Weasley. Well soon find that some wizarding families are better than others, Potter. Dont want to go making friends with the wrong sort. I can help you there.  This is Crabbe, and Goyle  and I'm Malfoy...Draco Malfoy. It's true then, what they're saying on the train. Harry Potter has come to Hogwarts. ",McGonagall,20
+Harry,"I think I can tell who the wrong sort are for myself, thanks.",Draco,20
+McGonagall,We're ready for you now.,Harry,20
+Hermione,"It's not real, the ceiling. It's just bewitched to look like the night sky. I read about it in Hogwarts: A History.",McGonagall,20
+McGonagall,"All right, will you wait along here, please? Now, before we begin, Professor Dumbldedore would like to say a few words.",Hermione,20
+Dumbledore," has asked me to remind you that the 3rd floor corridor on the right hand side is out of bounds to everyone who does not wish to die a most painful death. Thank you.I have a few start of term notices I wish to announce. The first years please note that the dark forest is strictly forbidden to all students. Also, our caretaker, Mr. Filch ",McGonagall,20
+McGonagall,"When I call your name, you will come forth, I shall place the sorting hat on your head, and you will be sorted into your houses. Hermione Granger.",Dumbledore,20
+Hermione,"Oh, no. Okay, relax. ",McGonagall,20
+Ron,"Mental that one, I'm telling you.",Hermione,20
+Sorting Hat,"Ah, right then...hmm...right. Okay...Gryffindor!!",Ron,20
+McGonagall,Draco Malfoy.,Sorting Hat,20
+Sorting Hat,SLYTHERIN!,McGonagall,20
+Ron,There isn't a witch or wizard who went bad who wasnt in Slytherin.,Sorting Hat,20
+McGonagall,Susan Bones.,Ron,20
+Harry,Ahh! ,McGonagall,20
+Ron,"Harry, what is it?",Harry,20
+Harry,"Nothing...it's nothing, I'm fine.",Ron,20
+Sorting Hat,Let's see...I know...Hufflepuff!,Harry,20
+McGonagall,Ronald Weasley.,Sorting Hat,20
+Sorting Hat,Ah! Another Weasley. I know just where to put you...Gryffindor!!,McGonagall,20
+McGonagall,Harry Potter.,Sorting Hat,20
+Sorting Hat,"Hmm...difficult, very difficult. Plenty of courage I see, not a bad mind, either. There's talent, oh yes, and a thirst to prove yourself. But where to put you?",McGonagall,20
+Harry, Not Slytherin. Not Slytherin.,Sorting Hat,20
+Sorting Hat," Well, if youre sure...better be...GRYFFINDOR!!Not Slytherin, eh? Are you sure? You could be great, you know. Its all here in your head. And Slytherin will help you on your way to greatness! There's no doubt about that! No? ",Harry,20
+Dumbledore,Let the feast...begin.,McGonagall,20
+Harry,Wow.,Dumbledore,20
+Seamus,I'm half and half. Me dad's a Muggle. Mam's a witch. Bit of a nasty shock for him when he found out.,Harry,20
+Harry,"Say, Percy, who's that teacher talking to Professor Quirrell?",Seamus,20
+Percy,"Oh, that's Professor Snape, head of Slytherin house.",Harry,20
+Harry,What's he teach?,Percy,20
+Percy,Potions. But everyone knows it's the Dark Arts he fancies. He's been after Quirrells job for years.,Harry,20
+Ron,Ahh!,Percy,20
+Nick,Hello! How are you? Welcome to Gryffindor.,Ron,20
+Hufflepuff ghost,Whoo-hoo-hoo!,Nick,20
+Girl,"Look, its the Bloody Baron!",Hufflepuff ghost,20
+Percy,"Hello, Sir Nicholas. Have a nice summer?",Girl,20
+Nick,"Dismal. Once again, my request to join the headless hunt has been denied. ",Percy,20
+Ron,"Hey, I know you! You're Nearly Headless Nick!",Nick,20
+Nick,I prefer Sir Nicholas if you don't mind.,Ron,20
+Hermione,Nearly headless? How can you be nearly headless?,Nick,20
+Nick,Like this. ,Hermione,20
+Ron,Ahh!,Nick,20
+Hermione,Eugh.,Ron,20
+Percy,"Gryffindors, follow me please. Keep up. Thank you.",Boy,21
+Boy,"Ravenclaw, follow me. This way.",Percy,21
+Percy,"This is the most direct path to the dormitories. Oh, and keep an eye on the staircases...they like to change.",Boy,21
+Percy,"Keep up, please, and follow me. Quickly now, come on. Come on. ",Percy,21
+Neville,"Seamus, that picture's moving!",Percy,21
+Ron,"Look at that one, Harry!",Neville,21
+Harry,I think she fancies you.,Ron,21
+Girl,"Oh, look! Look! Who's that girl?",Harry,21
+Man in painting,Welcome to Hogwarts.,Girl,21
+Girl,Who's that?,Man in painting,21
+Woman,Password?,Percy,22
+Percy," Follow me, everyone. Keep up, quickly, come on.Caput Draconis. ",Woman,22
+Girl,"Oh, wow.",Percy,22
+Percy," Gather 'round here. Welcome to the Gryffindor Common Room. Boys' dormitories, upstairs and down to your left. Girls, the same on your right. You'll find that your belongings have already been brought up.",Girl,22
+Ron,That was bloody brilliant.,Ron,25
+McGonagall,"Thank you for that assessment, Mr. Weasley. Maybe if I were to transfigure Mr. Potter and yourself into a pocketwatch, maybe one of you would be on time.",Ron,25
+Harry,We got lost.,McGonagall,25
+McGonagall,Then perhaps a map? I trust you don't need one to find your seats.,Harry,25
+Snape," You don't know? Well, let's try again. Where, Mr. Potter, would you look if I asked you to find me a bezoar? Mr. Potter. Our...new...celebrity. Tell me, what would I get if I added powdered root of asphodel to an infusion of wormwood? ",Snape,26
+Harry,"I don't know, Sir.",Snape,26
+Snape,And what is the difference between Monkshood and Wolfbane?,Harry,26
+Harry,"I don't know, Sir.",Snape,26
+Snape,"Pity. Clearly, fame isn't everything, is it, Mr. Potter?",Harry,26
+Harry,What's Seamus trying to do to that glass of water?,Seamus,27
+Ron,"Turn it into rum. Actually managed a weak tea yesterday, before...",Harry,27
+Ron,Ah. Mail's here!,Ron,27
+Harry, Thanks.Can I borrow this? ,Ron,27
+Seamus,"Hey, look! Neville's got a Remembrall!",Harry,27
+Hermione,", it means you've forgotten something.I've read about those. When the smoke turns red ",Seamus,27
+Neville,"The only problem is, I can't remember what I've forgotten.",Hermione,27
+Harry,"Hey, Ron, somebody broke into Gringotts. Listen, Believed to be the work of dark witches or wizards unknown, Gringotts goblins, while acknowledging the breach, insist that nothing was taken. The vault in question, number 713, had in fact been emptied earlier that same day. That's odd. That's the vault Hagrid and I went to.",Neville,27
+Class,"Good afternoon, Madam Hooch.",Hooch,28
+Hooch," Welcome to your first flying lesson. Well, what are you waiting for? Everyone step up to the left side of their broomstick. Come on now, hurry up. Stick your right hand over the broom and say, Up!Good afternoon, Amanda, good afternoon. ",Class,28
+Class,Up!,Hooch,28
+Harry,Whoa. ,Class,28
+Draco,Up! ,Harry,28
+Hooch,With feeling!,Draco,28
+Hermione,Up. Up. Up. Up.,Hooch,28
+Ron," Ow!  Shut up, Harry. Up!! ",Hermione,28
+Hooch," When I blow my whistle, I want each of you to kick off from the ground, hard. Keep your broom steady, hover for a moment, and then lean forward slightly and touch back down. On my whistle...3...2...Now, once you've got hold of your broom, I want you to mount it. And grip it tight, you don't want to be sliding off the end. ",Ron,28
+Neville,Oh...,Hooch,28
+Hooch,Mr. Longbottom.,Neville,28
+Girl,"Neville, what are you doing?",Hooch,28
+Students,Neville...Neville...,Girl,28
+Boy,"We're not supposed to take off, yet.",Students,28
+Hooch, M-M-Mr. Longbottom Mr. Longbottom!,Boy,28
+Neville,AHH!,Hooch,28
+Hooch,Mr. Longbottom!,Neville,28
+Neville, Down! Down! Ahhhh!,Hooch,28
+Harry,Neville! ,Neville,28
+Neville,Help!!!,Harry,28
+Hooch,Come back down this instant!,Neville,28
+Neville,AHH!,Hooch,28
+Neville,Help!,Neville,28
+Hooch,Mr. Longbottom! ,Neville,28
+Neville, Ahh! Oh. Ah...help! Ahhhh! Whoa! Ahhh! ,Hooch,28
+Hooch," Come on, get up.Everyone out of the way! ",Neville,28
+Girl,Is he alright?,Hooch,28
+Neville,Owowowow.,Girl,28
+Hooch," Everyone's to keep their feet firmly on the ground while I take Mr. Longbottom to the hospital wing. Understand? If I see a single broom in the air, the one riding it will find themselves out of Hogwarts before they can say, Quidditch. Oh, oh, oh, oh dear. It's a broken wrist. Tch, tch, tch. Good boy, come on now, up you get. ",Neville,28
+Draco," Did you see his face? Maybe if the fat lump had given this a squeeze, he'd have remembered to fall on his fat ass. ",Hooch,28
+Harry,"Give it here, Malfoy.",Draco,28
+Draco," How 'bout up on the roof??  What's the matter, Potter? Bit beyond your reach?No. I think I'll leave it somewhere for Longbottom to find. ",Harry,28
+Hermione," What an idiot.Harry, no! You heard what Madam Hooch said! Besides, you don't even know how to fly. ",Draco,28
+Harry,"Give it here, Malfoy, or I'll knock you off your broom!",Hermione,28
+Draco," Have it your way, then! Is that so? ",Harry,28
+Boy,"Good job, Harry!",Draco,28
+Boy 2,"Oh, that was wicked, Harry.",Boy,28
+McGonagall, Harry Potter? Follow me. ,Boy 2,29
+McGonagall,"Excuse me, excuse me, Professor Quirrell. Could I borrow Wood for a moment?",Quirrell,29
+Quirrell," And the vampire b-bat...Oh. Y-yes, of course. ",McGonagall,29
+McGonagall,"Potter, this is Oliver Wood. Wood, I have found you a Seeker!",Quirrell,29
+Ron,Seeker? But first years never make their house teams! You must be the youngest Quidditch player in,Nick,30
+Harry,"A century, according to McGonagall.",Ron,30
+Fred,"Hey, well done, Harry, Wood's just told us!",Harry,30
+Ron,"Fred and George are on the team, too. Beaters.",Fred,30
+George,"Our job is to make sure that you don't get bloodied up too bad. Can't make any promises, of course. Rough game, Quidditch.",Ron,30
+Fred,"Brutal. But no one's died in years. Someone will vanish occasionally... They break off from Harry and Ron, who walk across a courtyard.",George,30
+George,But they'll turn up in a month or two!!,Fred,30
+Ron,"Oh, go on, Harry, Quidditch is great. Best game there is! And you'll be great, too! ",George,30
+Harry,But I've never even played Quidditch. What if I make a fool of myself?,Ron,30
+Hermione,You won't make a fool of yourself. It's in your blood.,Harry,30
+Harry,I-I didn't know.,Ron,31
+Harry,Who doesn't?,Ron,32
+Ron,Ahh!,Harry,32
+Harry,What's happening?,Hermione,32
+Hermione,"The staircases change, remember? ",Harry,32
+Harry, Let's go this way.,Hermione,32
+Ron,Before the staircase moves again. ,Harry,32
+Harry,Does anyone feel like...we shouldn't be here?,Ron,32
+Hermione,We're not supposed to be here. This is the 3rd floor. It's forbidden.,Harry,32
+Harry,Let's go.,Hermione,32
+Ron,It's Filch's cat!,Harry,32
+Harry,Run!,Ron,32
+Harry,It's locked!,Harry,32
+Ron,"That's it, we're done for!",Harry,32
+Hermione," Alohomora.  Get in. Oh, move over! ",Ron,32
+Ron,Alohomora?,Hermione,32
+Hermione,"Standard book of spells, Chapter 7.",Ron,32
+Filch," Come on. Anyone here, my sweet? ",Hermione,32
+Hermione,Filch is gone.,Filch,32
+Ron,Probably thinks this door's locked.,Hermione,32
+Hermione,It was locked.,Ron,32
+Harry,And for good reason. ,Hermione,32
+All,AHHHHHHH! ,Harry,33
+Ron,What do they think they're doing?? Keeping a thing like that locked up in a school.,Hermione,33
+Hermione,"You don't use your eyes, do you? Didn't you see what it was standing on?",Ron,33
+Ron,"I wasn't looking at its feet! I was a bit preoccupied with its heads. Or maybe you didn't notice, there were three! ",Hermione,33
+Hermione,It was standing on a trap door. Which means it wasn't there by accident. It's guarding something.,Ron,33
+Harry,Guarding something?,Hermione,33
+Hermione,"That's right. Now, if you two don't mind, I'm going to bed before either of you come up with another clever idea to get us killed...or worse, expelled! ",Harry,33
+Ron,She needs to sort out her priorities!,Hermione,33
+Harry, I think so. What are those? ,Oliver,34
+Oliver," Bludger. Nasty little buggers. But the only ball I want you to worry about is this...the Golden Snitch.  Careful now, it's comin' back.  Eh, not bad, Potter, you'd make a fair beater...Uh-oh. ...You better take this. ",Harry,34
+Harry,I like this ball.,Oliver,34
+Oliver,"Ah, you like it now. Just wait. It's wicked fast and damn near impossible to see.",Harry,34
+Harry,What do I do with it?,Oliver,34
+Oliver,"You catch it...before the other team's seeker. You catch this, the game is over. You catch this, Potter, and we win.",Harry,34
+Harry,Whoa.,Oliver,34
+Draco,Wingardium Levio-saaa.,Flitwick,35
+Ron,Wingardrium Leviosar. ,Draco,35
+Hermione,"Stop, stop, stop. You're going to take someone's eye out. Besides, youre saying it wrong. It's Leviosa, not Leviosar.",Ron,35
+Ron,"You do it then if you're so clever. Go on, go on.",Hermione,35
+Hermione, Wingardium Leviosa. ,Ron,35
+Flitwick,"Oh, well done! See here, everyone! Ms. Granger's done it! Oh, splendid!",Hermione,35
+Seamus,Wingard Levosa. Wingard Levosa. ,Flitwick,35
+Flitwick,Whooaaa! Ooh.,Seamus,35
+Harry,"I think we're going to need another feather over here, Professor.",Flitwick,35
+Harry,I think she heard you.,Ron,36
+Neville,Parvati Patil said that she wouldn't come out of the girl's bathroom. She said that she'd been in there all afternoon...crying.,Harry,37
+Quirrell, Thought you ought to know. TROLL! IN THE DUNGEON! T-TROOLLL IN THE DUNGEON!! ,Neville,37
+Dumbledore," Everyone will please, not panic. Now, Prefects will lead their houses back to the dormitories. Teachers will follow me to the dungeons.SILLLLLEEENNNNCEEEEE! ",Quirrell,37
+Girl,"Hufflepuff, this way!",Dumbledore,37
+Boy,Stay together!,Girl,37
+Harry,How could a troll get in?,Percy,38
+Ron, What?Not by itself. Trolls are really stupid. Probably people playing jokes. ,Harry,38
+Harry,Hermione! She doesn't know!,Ron,38
+Harry,He's going into the Girl's Bathroom!,Harry,39
+Hermione,Help! Help! ,Harry,39
+Ron,"Hey, pea brain! ",Hermione,39
+Hermione,Ahhh! Help!,Ron,39
+Harry,"Whooa! Whoa, whoa! ",Hermione,39
+Ron,Ew.,Harry,39
+Harry,"Whoa, whoa whoa!",Ron,39
+Harry,Do something! ,Harry,39
+Ron,What? ,Harry,39
+Harry,Anything! Hurry up!,Ron,39
+Hermione,Swish and flick!,Harry,39
+Ron,"Wingardium Leviosa! flick. The club is lifted out of the troll's hand and hovers above its head. The troll looks up, confused, just as the club comes crashing back down. (Ron: Cool.) It hits the troll's head and the troll wavers, then drops Harry, who crawls away, and comes crashing down, hard.",Hermione,39
+Hermione,Is it...dead?,Ron,39
+Harry, Ew. Troll bogies.I don't think so. Just knocked out. ,Hermione,39
+McGonagall,"Oh! Oh, my goodness! E-Explain yourselves, both of you!",Harry,39
+Harry,"Well, what it is...",McGonagall,39
+Hermione,"It's my fault, Professor McGonagall. ",Harry,39
+McGonagall,Ms. Granger?,Hermione,39
+Hermione,I went looking for the troll. I'd read about them and thought I could handle it. But I was wrong. If Harry and Ron hadn't come and found me...I'd probably be dead.,McGonagall,39
+McGonagall," I would have expected more rational behaviour on your part, Ms. Granger. 5 points will be taken from Gryffindor for your serious lack of judgment. As for you two gentlemen I just hope you realize how fortunate you are. Not many students could take on a full grown mountain troll and live to tell the tale. 5 points...will be awarded to each of you. For sheer dumb luck. Be that as it may...it was an extremely foolish thing to do. ",Hermione,39
+Quirrell,  Ahh! Hehe....Perhaps you ought to go...M-might wake up...heh. ,McGonagall,39
+Hermione,"Ron's right, Harry. You're gonna need your strength today.",Ron,40
+Harry,I'm not hungry.,Hermione,40
+Snape,"Good luck today, Potter. Then again, now that you've proven yourself against a troll, a little game of Quidditch should be easy work for you...even if it is against Slytherin. ",Harry,40
+Harry,That explains the blood.,Snape,40
+Hermione,Blood?,Harry,40
+Harry,"Listen, last night, I'm guessing Snape let the troll in as a diversion so he could try and get past that 3 headed dog. But, he got himself bitten, that's why he's limping.",Hermione,40
+Hermione,But why would anyone go near that dog?,Harry,40
+Harry,"The day I was at Gringotts, Hagrid took something out of one of the vaults. He said it was Hogwarts' business, very secret.",Hermione,40
+Hermione,So you're saying...,Harry,40
+Harry,That's what the dog's guarding. That's what Snape wants.,Hermione,40
+Hermione,"Bit early for mail, isn't it?",Harry,40
+Harry,But I-I never get mail.,Hermione,40
+Ron,Let's open it.,Harry,40
+Harry,It's a broomstick!,Ron,40
+Ron,"Thats not just any broomstick, Harry. It's a Nimbus 2000!",Harry,40
+Harry,But who...?,Ron,40
+Harry,A little bit.,Oliver,41
+Oliver,That's all right. I felt the same way before my first game.,Harry,41
+Harry,What happened?,Oliver,41
+Oliver,"Er, I don't really remember. I took a bludger to the head 2 minutes in. Woke up in the hospital a week later.",Harry,41
+Lee,"Hello, and welcome to Hogwarts' first Quidditch game of the season! Today's game Slytherin versus Gryffindor!!!",Oliver,41
+Lee,The players take their positions as Madam Hooch steps out onto the field to begin the game.,Hooch,41
+Hooch,"Now, I want a nice clean game...from all of you. ",Lee,41
+Lee,"The bludgers are up...followed by the Golden Snitch. Remember, the snitch is worth 150 points. The seeker who catches the Snitch ends the game.",Hooch,41
+Lee,The Quaffle is released...and the game begins!,Lee,41
+Lee,Angelina Johnson scores! 10 points for Gryffindor! ,Lee,41
+Harry, Whoa!Yes! ,Lee,41
+Hagrid,Well done!,Harry,41
+Lee,Slytherin takes possession of the Quaffle. Bletchley passes to Captain Marcus Flint.,Hagrid,41
+Ron and Seamus,Yay!,Lee,41
+Harry,Yes!,Ron and Seamus,41
+Lee,Another 10 points to Gryffindor! ,Harry,41
+Gryffindors,Yay!,Lee,41
+Flint,Give me that! ,Gryffindors,41
+Flint, Take that side!,Harry,41
+Harry,Whoa! Whooa!,Flint,41
+Hagrid,What's going on with Harry's broomstick?,Harry,41
+Hermione,It's Snape! He's jinxing the broom!,Hagrid,41
+Ron,Jinxing the broom? What do we do?,Hermione,41
+Hermione,Leave it to me. ,Ron,41
+Ron,"Come on, Hermione!",Hermione,41
+Hermione,Lacarnum Inflamarae.,Ron,41
+Man,Fire! You're on fire!,Hermione,41
+Snape,What? Oh! ,Man,41
+Ron,Go!,Snape,41
+Hagrid,Go go go!,Ron,41
+Hagrid,Looks like he's gonna be sick!,Hagrid,41
+Lee,He's got the Snitch! Harry Potter receives 150 points for catching the Snitch!,Hagrid,41
+Hooch, Gryffindor win!,Lee,41
+All,YAY!,Hooch,41
+Draco,No!,All,41
+Hagrid,Yes!,Draco,41
+Hermione,Whoo-hoo!,Hagrid,41
+Crowd,Go go Gryffindor! Go go Gryffindor! Go go Gryffindor! Go go Gryffindor!,Scene,41
+Hagrid,Nonsense. Why would Snape put a curse on Harry's broom?,Harry,41
+Harry,Who knows. Why was he trying to get past that 3 headed dog on Halloween?,Hagrid,42
+Hagrid,Who told you 'bout Fluffy?,Harry,42
+Ron,Fluffy?,Hagrid,42
+Hermione,That thing has a name?,Ron,42
+Hagrid,"Well, of course he's got a name. He's mine. I bought him off an Irish feller I met down at the pub last year. Then I lent him to Dumbledore to guard the",Hermione,42
+Harry,Yes?,Hagrid,42
+Hagrid,"Shouldn'ta said that. Don't ask any more questions. That's top secret, that is.",Harry,42
+Harry,"But Hagrid, whatever Fluffy's guarding, Snape's trying to steal it!",Hagrid,42
+Hagrid,Codswallop. Professor Snape is a Hogwarts teacher.,Harry,42
+Hermione,"Hogwarts teacher or not, I know a curse when I see one. I've read all about them. You have to keep eye contact. And Snape wasn't blinking.",Hagrid,42
+Harry,Exactly.,Hermione,42
+Hagrid," Now, you listen to me, all three of you. You're meddlin' in things that ought not to be meddled in. It's dangerous. What that dog is guarding is strictly between Professor Dumbledore and Nicholas Flamel.",Harry,42
+Harry,Nicholas Flamel?,Hagrid,42
+Hagrid,I shouldn't have said that. I should not have said that. I should not have said that. ,Harry,42
+Harry,Nicholas Flamel...Who's Nicholas Flamel?,Hagrid,42
+Hermione,I don't know.,Harry,43
+Ron,Queen to E-5.,Harry,43
+Hermione,That's totally barbaric!,Ron,43
+Ron,That's wizard's chess. I see you've packed.,Hermione,43
+Hermione,See you haven't.,Ron,43
+Ron,"Change of plans. My parents decided to go to Romania to visit my brother, Charlie. He's studying dragons there!",Hermione,43
+Hermione,"Good. You can help Harry, then. He's going to go the library for information on Nicholas Flamel.",Ron,43
+Ron,We've looked a hundred times!,Hermione,43
+Hermione,Not in the restricted section...Happy Christmas. ,Ron,43
+Ron,I think we've had a bad influence on her.,Hermione,43
+Ron," Harry, wake up! Come on Harry, wake up!",Ron,44
+Ron,"Happy Christmas, Harry.",Ron,44
+Harry,"Happy Christmas, Ron. What are you wearing?",Ron,44
+Ron,"Oh, Mum made it for me. Looks like you've got one too!",Harry,44
+Harry,I've got presents?,Ron,44
+Ron,Yeah!,Harry,44
+Harry,Oh! ,Ron,44
+Ron,There they are. ,Harry,44
+Harry,"""Your father left this in my possession before he died. It is time it was returned to you. Use it well.""",Ron,44
+Ron,What is it?,Harry,44
+Harry,Some kind of...cloak.,Ron,44
+Ron,"Well, let's see then. Put it on.",Harry,44
+Ron,Whoa!,Ron,44
+Harry,My body's gone!,Ron,44
+Ron,I know what that is! That's an invisibility cloak!,Harry,44
+Harry,I'm invisible??,Ron,44
+Ron, They're really rare. I wonder who gave it to you.,Harry,44
+Harry," There was no name. It just said, ""Use it well.""",Ron,44
+Harry, Famous fire eaters...15th Century Fiends...Flamel...Nicholas Flamel...where are you?,Man,45
+Man,AHHHHHHHHHHHHHHHH!!!!!!!!,Harry,45
+Filchs voice, I know you're in there. You can't hide.  Who is it? Show yourself!Who's there?! ,Man,45
+Quirrell,Severus...I-I thought...,Filchs voice,45
+Snape,"You don't want me as your enemy, Quirrell.",Quirrell,45
+Quirrell,W-what do you m-mean?,Snape,45
+Snape, We'll have another chat soon...when you've had time to decide where your loyalties lie.You know perfectly well what I mean. ,Quirrell,45
+Filch,"Oh, Professors. I found this, in the Restricted Section. It's still hot. That means there's a student out of bed.",Snape,45
+Harry," Dad? Mum? nods and smiles. Harry reaches out to touch them, but only gets the mirror. Then, his mother puts her hand on his shoulder. He puts his own hand on his own shoulders, as if trying to feel her there.",Filch,45
+Harry," Ron, Ron, come on. Get out of bed!Ron! You've really got to see this! Ron! You've got to see this! ",Ron,46
+Ron,Why?,Harry,46
+Harry,"There's something you've got to see. Now, come on!",Ron,46
+Harry,"Come on. Come. Come look, it's my parents!",Ron,47
+Ron,I only see me.,Harry,47
+Harry," Look in properly. Go on. Stand there. There. You see them, don't you? Thats my dad",Ron,47
+Ron,"That's me! Only, I'm head boy...and I'm holding the Quidditch cup! And bloody hell, I'm Quidditch Captain too! I look good. Harry, do you think this mirror shows the future?",Harry,47
+Harry,How can it? Both my parents are dead. ,Ron,47
+Dumbledore," I see that you, like so many before you, have discovered the delights of the Mirror of Erised. I trust by now you realize what it does. Let me give you a clue. The happiest man on earth would look into the mirror and see only himself, exactly as he is.Back again, Harry? ",Harry,48
+Harry,"So, then it shows us what we want? Whatever we want?",Dumbledore,48
+Dumbledore,"Yes...and no. It shows us nothing more or less than the deepest, most desperate desires of our hearts. Now you, who have never known your family, you see them standing beside you. But remember this, Harry. This mirror gives us neither knowledge or truth. Men have wasted away in front of it, even gone mad. That is why tomorrow it will be moved to a new home, and I must ask you not to go looking for it again. It does not do to dwell on dreams, Harry, and forget to live. ",Harry,48
+Hermione,I had you looking in the wrong section! How could I be so stupid? I checked this out a few weeks ago for a bit of light reading.,Ron,50
+Ron,This is light?,Hermione,50
+Hermione," Of course! Here it is! ""Nicholas Flamel is the only known maker of the Philosopher's Stone!""",Ron,50
+Harry,The what?,Hermione,50
+Hermione,"Honestly, don't you two read? ""The Philosopher's Stone is a legendary substance with astonishing powers. It will turn any metal into pure gold and produces the Elixir of Life, which will make the drinker immortal.""",Harry,50
+Ron,Immortal?,Hermione,50
+Hermione,It means you'll never die.,Ron,50
+Ron,I know what it means!,Hermione,50
+Harry,Shh!,Ron,50
+Hermione,"""The only stone currently in existence belongs to Mr. Nicholas Flamel, the noted alchemist, who last year celebrated his 665th birthday!"" That's what Fluffy's guarding on the 3rd floor. That's what's under the trapdoor...the Philosopher's Stone!",Harry,50
+Harry,Hagrid!,Hagrid,51
+Hagrid," Oh, hello. Sorry, don't wish to be rude, but I'm in no fit state to entertain today. ",Harry,51
+All,We know about the Philosopher's Stone!,Hagrid,51
+Hagrid,Oh.,All,51
+Harry,We think Snape's trying to steal it.,Hagrid,51
+Hagrid,"Snape? Blimey, Harry, you're not still on about him, are you?",Harry,51
+Harry,"Hagrid, we know he's after the Stone. We just don't know why.",Hagrid,51
+Hagrid,Snape is one of the teachers protecting the Stone! He's not about to steal it!,Harry,51
+Harry,What?,Hagrid,51
+Hagrid,"You heard. Right. Come on, now, I'm a bit preoccupied today.",Harry,51
+Harry, One of the teachers?Wait a minute. ,Hagrid,51
+Hermione," Of course! There are other things defending the Stone, aren't there? Spells, enchantments.",Harry,51
+Hagrid,"That's right. Waste of bloody time, if you ask me.",Hermione,51
+Harry,"Uh, Hagrid, what exactly is that?",Hagrid,51
+Hagrid,That? It's a ... its um...,Harry,51
+Ron,"I know what that is! But Hagrid, how did you get one?",Hagrid,51
+Hagrid,"I won it. Off a stranger I met down at a pub. Seemed quite glad to be rid off it, as a matter of fact.",Ron,51
+Hermione,Is that...a dragon?,Hagrid,51
+Ron,That's not just a dragon. That's a Norwegian Ridgeback! My brother Charlie works with these in Romania.,Hermione,51
+Hagrid,"Isn't he beautiful? Oh. Bless him, look. He knows his mummy. Hehe. Hallo, Norbert. ",Ron,51
+Harry,Norbert?,Hagrid,51
+Hagrid,"Yeah, well, he's got to have a name, doesn't he?",Harry,51
+Hagrid," Dededede.Don't you, Norbert? ",Hagrid,51
+Hagrid," Who's that? Ohh! Oooh, ooh, ooh, well...he'll have to be trained up a bit, of course. ",Hagrid,51
+Harry,Malfoy.,Hagrid,51
+Hagrid,"Oh, dear.",Harry,51
+Harry,Hagrid always wanted a dragon. He told me so the first time I met him.,Ron,52
+Ron,"It's crazy. And worse, Malfoy knows.",Harry,52
+Harry,I don't understand. Is that bad?,Ron,52
+Ron,It's bad.,Harry,52
+McGonagall,Good evening.,Ron,52
+McGonagall,"Nothing, I repeat, nothing gives a student the right to walk about the school at night. Therefore, as punishment for your actions, 50 points will be taken.",Harry,53
+Harry,50?!,McGonagall,53
+McGonagall,"Each. And to ensure it doesn't happen again, all four of you will receive detention.",Harry,53
+Draco,"Excuse me, Professor. Perhaps I heard you wrong. I thought you said...""the four of us.""",McGonagall,53
+McGonagall,"No, you heard me correctly, Mr. Malfoy. You see, as honorable as your intentions were, you too were out of bed after hours. You will serve detention with your classmates.",Draco,53
+Filch," A sorry lot this, Hagrid. Oh, good God, man, you're not still on about that bloody dragon, are you? You'll be serving detention with Hagrid tonight. He's got a little job to do inside the dark forest. A pity they let the old punishments die. There was a time detention would find you hanging by your thumbs in the dungeons. God, I miss the screaming. ",Hagrid,54
+Hagrid, Norbert's gone. Dumbledore sent him off to Romania to live in a colony.,Filch,54
+Hermione,"Well, that's good, isn't it? He'll be with his own kind.",Hagrid,54
+Hagrid," What if the other dragons are mean to him? He's only a baby, after all.Yeah, but what if he don't like Romania? ",Hermione,54
+Filch,"Oh, for Gods sake, pull yourself together, man. You're going into the forest, after all. Got to have your wits about you.",Hagrid,54
+Draco,...werewolves!The forest? I thought that was a joke! We can't go in there. Students aren't allowed. And there are...,Filch,54
+Filch," Nighty-night. There's more than werewolves in those trees, lad. You can be sure of that. ",Draco,54
+Hagrid,Right. Let's go.,Filch,54
+Hagrid," So, it's our job to find the poor beast. Ron, Hermione, you'll come with me.What we're here for. See that? That's unicorn's blood, that is. I found one dead a few weeks ago. Now, this one's been injured bad by something. ",Harry,55
+Ron, Okay.,Hagrid,55
+Hagrid,"And Harry, you'll go with Malfoy. ",Ron,55
+Draco,Okay. Then I get Fang!,Hagrid,55
+Hagrid,"Fine. Just so you know, he's a bloody coward. ",Draco,55
+Draco,You wait till my father hears about this. This is servant's stuff.,Harry,56
+Harry,"If I didn't know better, Draco, I'd say you were scared.",Draco,56
+Draco,"  Did you hear that? Come on, Fang. Scared.Scared, Potter?! ",Harry,56
+Harry,"What is it, Fang?",Draco,57
+Draco, AHHHHHHHHH!!! AHHH!  HELP!!!!!,Harry,57
+Firenze,"Harry Potter, you must leave. You are known to many creatures here. The forest is not safe at this time. Especially for you.",Draco,57
+Harry, But what was that thing you saved me from?,Firenze,57
+Firenze,"A monstrous creature. It is a terrible crime to slay a unicorn. Drinking the blood of a unicorn will keep you alive even if you are an inch from death. But at a terrible price. You have slain something so pure that the moment the blood touches your lips, you will have a half-life. A cursed life.",Harry,57
+Harry,But who would choose such a life?,Firenze,57
+Firenze,Can you think of no one?,Harry,57
+Harry,Do you mean to say...that that thing that killed the unicorn...that was drinking its blood...that was Voldemort?,Firenze,57
+Firenze,Do you know what is hidden in the school at this very moment?,Harry,57
+Harry,The Philosopher's Stone.,Firenze,57
+Hermione,Harry!,Harry,57
+Hagrid,"Hello there, Firenze. I see you've met our young Mr. Potter. You all right there, Harry? ",Hermione,57
+Firenze,"Harry Potter, this is where I leave you. You're safe now. Good luck.",Hagrid,57
+Hermione,"You mean, You-Know-Who's out there, right now, in the forest?",Harry,58
+Harry,"But he's weak. He's living off the unicorns. Don't you see? We had it wrong. Snape doesn't want the stone for himself, he wants the stone for Voldemort. With the Elixir of Life, Voldemort will be strong again. He'll He'll come back. ",Hermione,58
+Ron,"But if he comes back, you don't think he'll try to kill you, do you?",Harry,58
+Harry,"I think if he'd had the chance, he might have tried to kill me tonight.",Ron,58
+Ron," And to think, I've been worrying about my Potions final!",Harry,58
+Hermione,Hang on a minute. We're forgetting one thing. Who's the one wizard Voldemort always feared?,Ron,58
+Hermione,"I've always heard Hogwarts' end of the year exams were frightful, but I found that rather enjoyable.",Ron,59
+Ron,"Speak for yourself. All right there, Harry?",Hermione,59
+Harry,My scar. It keeps burning.,Ron,59
+Hermione,It's happened before.,Harry,59
+Harry,Not like this.,Hermione,59
+Ron,Perhaps you should see the nurse.,Harry,59
+Harry, Oh. Of course! I think it's a warning. It means dangers coming. Uhh! ,Ron,59
+Hermione,What is it?,Harry,59
+Harry," I mean, how many people wander around with dragon eggs in their pockets? Why didn't I see it before? Hagrid, who gave you the dragon egg?  What did he look like?Don't you think it's a bit odd that what Hagrid wants more than anything is a dragon, and a stranger shows up and just happens to have one? ",Hermione,59
+Hagrid,I don't know. I never saw his face. He kept his hood up.,Harry,59
+Harry,"The stranger, though, you and he must have talked.",Hagrid,59
+Hagrid,"Well, he wanted to know what sort of creatures I looked after. I told him. I said, ""After Fluffy, a dragon's gonna be no problem.""",Harry,59
+Harry,And did he seem interested in Fluffy?,Hagrid,59
+Hagrid,"Well, of course he was interested in Fluffy! How often do you come across a three headed dog, even if you're in the trade? But I told him. I said, ""The trick with any beast is to know how to calm him. Take Fluffy, for example, just play him a bit of music and he falls straight to sleep.""",Harry,59
+Hagrid, Where you going?! Wait!I shouldn't have told you that. ,Hagrid,59
+Harry,"We have to see Professor Dumbledore, immediately!",McGonagall,60
+McGonagall,I'm afraid Professor Dumbledore is not here. He received an urgent owl from the Ministry of Magic and left immediately for London.,Harry,60
+Harry,He's gone?! Now? But this is important! It's about...the Philosopher's Stone.,McGonagall,60
+McGonagall, How do you know,Harry,60
+Harry,Someone's going to try and steal it.,McGonagall,60
+McGonagall,"I don't know how you three found out about the stone, but I can assure you it is perfectly well-protected. Now would you go back to your dormitories? Quietly. ",Harry,60
+Harry,"That was no stranger Hagrid met in the village. It was Snape, which means he knows how to get past Fluffy.",Hermione,61
+Hermione,And with Dumbledore gone,Harry,61
+Snape,"Good afternoon. Now, what would three young Gryffindors such as yourselves be doing inside on a day like this?",Hermione,61
+Hermione,Uh...we were just...,Snape,61
+Snape, up to something. You want to be careful. People will think you're ,Hermione,61
+Hermione,Now what do we do?,Snape,61
+Harry,We go down the trapdoor. Tonight.,Hermione,61
+Ron,"Trevor shh! Go, you shouldn't be here!",Harry,62
+Neville," Neither should you. You're sneaking out again, arent you?",Ron,62
+Harry,"Now, Neville, listen. We were",Neville,62
+Neville, You'll get Gryffindor in trouble again! I-I'll fight you. No! I won't let you! ,Harry,62
+Hermione," Petrificus Totalus.Neville, I'm really, really sorry about this...",Neville,62
+Ron," You're a little scary sometimes...you know that? Brilliant, but scary.",Hermione,62
+Harry, Sorry.Let's go. ,Ron,62
+Hermione,Sorry.,Harry,62
+Ron,"It's for your own good, you know. ",Hermione,62
+Ron,Sorry. ,Hermione,63
+Hermione,Alohomora.,Ron,63
+Ron, Sleeping.Wait a minute...he's....,Hermione,63
+Harry,Snape's already been here. He's put a spell on the harp. ,Ron,63
+Ron,Uh. It's got horrible breath!,Harry,63
+Harry,We have to move its paw.,Ron,63
+Ron,What?!,Harry,63
+Harry," I'll go first. Don't follow until I give you a sign.  If something bad happens, get yourselves out...Does it seem a bit...quiet? Okay. Push! Come on! ",Ron,63
+Hermione,The harp. It stopped playing.,Harry,63
+Ron,Ew! Yuck! Ugh. ,Hermione,63
+Harry,Jump! Go! ,Ron,63
+Ron," Whoa. Lucky this plant-thing is here, really.Ahh! ",Harry,63
+Harry, Oh. Ahh! Whoa! ,Ron,63
+Hermione,"Stop moving, both of you. This is Devil's Snare. You have to relax. If you don't, it will only kill you faster.",Harry,63
+Ron,"Kill us faster?! Oh, now I can relax!",Hermione,63
+Harry,Hermione!!,Ron,63
+Ron,Now what are we gonna do?!,Harry,63
+Hermione,Just relax!,Ron,63
+Harry,Hermione! Where are you?!,Hermione,63
+Hermione,Do what I say. Trust me.,Harry,63
+Ron,Ahh! Harry!,Hermione,63
+Ron,Harry!,Ron,63
+Hermione,Are you okay?,Ron,63
+Harry,"Yeah, yeah, I'm fine.",Hermione,63
+Ron,Help!,Harry,63
+Hermione,"He's not relaxing, is he?",Ron,63
+Harry,Apparently not.,Hermione,63
+Ron,Help! Help me!,Harry,63
+Hermione,We've got to do something!,Ron,63
+Harry,What?,Hermione,63
+Hermione," Lumus Solem!  Um Devil's Snare, Devil's Scare,  it's deadly fun...but will sulk in the sun! That's it! Devil's Snare hates sunlight! Uh! I remember reading something in Herbology. ",Harry,63
+Ron,Ahhh!,Hermione,63
+Harry,"Ron, are you okay?",Ron,63
+Ron,Yeah.,Harry,63
+Harry,Okay.,Ron,63
+Ron, Whew. Lucky we didn't panic!,Harry,63
+Harry,Lucky Hermione pays attention in Herbology.,Ron,63
+Hermione,What is that?,Harry,63
+Harry,I don't know. Sounds like wings.,Hermione,63
+Hermione,Curious. I've never seen birds like these.,Harry,63
+Harry,"They're not birds, they're keys. And I'll bet one of them fits that door. ",Hermione,63
+Hermione,What's this all about?,Harry,63
+Harry,I don't know. Strange.,Hermione,63
+Ron," Alohomora!  Well, it was worth a try.",Harry,63
+Hermione,Ugh! What're we going to do? There must be 1000 keys up there!,Ron,63
+Ron,We're looking for a big old fashioned one. Probably rusty like the handle.,Hermione,63
+Harry, The one with the broken wing! There! I see it! ,Ron,63
+Hermione,"What's wrong, Harry?",Harry,63
+Harry,It's too simple.,Hermione,63
+Ron,"Oh, go on, Harry! If Snape can catch it on that old broomstick, you can! You're the youngest seeker in a century!",Harry,63
+Ron,This complicates things a bit!,Ron,63
+Harry,Catch the key!,Ron,63
+Ron,Hurry up!,Harry,63
+Hermione,I don't like this. I don't like this at all.,Harry,64
+Harry,Where are we? A graveyard.,Hermione,64
+Ron, It's a chessboard. This is no graveyard. ,Harry,64
+Harry,There's the door.,Ron,64
+Hermione,Now what do we do?,Harry,64
+Ron,"It's obvious, isn't it? We've got to play our way across the room. All right. Harry, you take the Bishop's square. Hermione, you'll be the Queen's side castle. As for me, I'll be a knight. ",Hermione,64
+Hermione,What happens now?,Ron,64
+Ron," Well, white moves first, and then...we play. ",Hermione,64
+Hermione,"Ron, you don't suppose this is going to be like...real wizard's chess, do you?",Ron,64
+Ron," Yes, Hermione, I think this is going to be exactly like wizard's chess!You there! D-5! ",Hermione,64
+Ron,"Castle to E-4! Smash! Ron: Pawn to C-3! Smash! Boom! The Queen turns, and smashes a piece! Harry, Ron and Hermione wince. The Queen turns again. Both Ron and Harry study the game.",Ron,64
+Harry,Wait a minute.,Ron,64
+Ron,"You understand right, Harry. Once I make my move, the Queen will take me...then you'll be free to check the King.",Harry,64
+Harry,"No, Ron! No!",Ron,64
+Hermione,What is it?,Harry,64
+Harry,He's going to sacrifice himself!,Hermione,64
+Hermione," There must be another way!No, Ron, you can't! ",Harry,64
+Ron," Do you want to stop Snape or not? Harry, it's you that has to go on. I know it. Not me, not Hermione, you.  Knight...to H-3.",Hermione,64
+Ron,Check.,Ron,64
+Ron,Ahhhh!,Ron,64
+Harry," Checkmate.  NO! Don't move! Dont forget, we're still playing.  Take care of Ron. Then, go to the owlery. Send a message to Dumbledore. Ron's right...I have to go on.RON! ",Ron,64
+Hermione,"You'll be okay, Harry. You're a great wizard, you really are.",Harry,64
+Harry,Not as good as you.,Hermione,64
+Hermione," Me? Books and cleverness? There are more important things. Friendship, and bravery. And Harry, just be careful.",Harry,64
+Harry, No. It can't be...Snape. He was the oneYou? ,Quirrell,65
+Quirrell,"Yes. He does seem the type, doesn't he? Next to me, who would suspect, ""p-p-poor s-stuttering Professor Quirrell?""",Harry,65
+Harry,"B-but, that day, during the Quidditch Match, Snape tried to kill me.",Quirrell,65
+Quirrell,"No, dear boy. I tried to kill you! And trust me, if Snape's cloak hadn't caught fire and broken my eye contact, I would have succeeded. Even with Snape muttering his little counter-curse.",Harry,65
+Harry,Snape was trying to...save me?,Quirrell,65
+Quirrell,I knew you were a danger right from the off. Especially after Halloween.,Harry,65
+Harry,Th-then you let the troll in.,Quirrell,65
+Quirrell," But he doesn't understand. I'm never alone. Never. Now...what does this mirror do? I see what I desire. I see myself holding the stone. But how do I get it?Very good Potter, yes. Snape, unfortunately, wasn't fooled. While everyone else was running to the dungeon, he went to the 3rd floor to head me off. He, of course, never trusted me again. He rarely left me alone. ",Harry,65
+Voldemort,Use the boy.,Quirrell,65
+Quirrell,"Come here, Potter, now!",Voldemort,65
+Quirrell,Tell me. What do you see?,Quirrell,65
+Quirrell,What is it?! What do you see?!,Quirrell,65
+Harry,I-I'm shaking hands with Dumbledore. I've won the house cup.,Quirrell,65
+Voldemort,He lies.,Harry,65
+Quirrell,Tell the truth! What do you see?!,Voldemort,65
+Voldemort,Let me speak to him.,Quirrell,65
+Quirrell,"Master, you are not strong enough.",Voldemort,65
+Voldemort, Harry Potter. We meet again.I have strength enough for this. ,Quirrell,65
+Harry,Voldemort.,Voldemort,65
+Voldemort,"Yes. You see what I have become? See what I must do to survive? Live off another. A mere parasite. Unicorn blood can sustain me, but it cannot give me a body of my own. But there is something that can. Something, that conveniently enough, lies in your pocket!",Harry,65
+Voldemort, Don't be a fool! Why suffer a horrific death when you can join me and live?!Stop him! ,Voldemort,65
+Harry, Never!,Voldemort,65
+Voldemort," All I ask for is something in return.  That's it, Harry. There is no good and evil. There is only power, and those too weak to seek it. Together, we'll do extraordinary things. Just give me the stone! Haha. Bravery. Your parents had it too. Tell me, Harry, would you like to see your mother and father again? Together, we can bring them back. ",Harry,65
+Harry,You liar!,Voldemort,65
+Voldemort,Kill him!,Harry,65
+Quirrell, What is this magic? Ahh! Ahh! ,Voldemort,65
+Voldemort,Fool! Get the stone!,Quirrell,65
+Quirrell, Ahhhhhhhhhh!,Voldemort,65
+Voldemort,Arrrhhhhhh!,Quirrell,65
+Harry,Ahhhhhhhhh! ,Voldemort,65
+Dumbledore,"Good afternoon, Harry. Ah. Tokens from your admirers?",Harry,66
+Harry,Admirers?,Dumbledore,66
+Dumbledore," Ah, I see your friend Ronald has saved you the trouble of opening your Chocolate Frogs.What happened down in the dungeons between you and Professor Quirrell is a complete secret, so, naturally, the whole school knows. ",Harry,66
+Harry,Ron was here? Is he all right? What about Hermione?,Dumbledore,66
+Dumbledore,Fine. They're both just fine.,Harry,66
+Harry,"But, what happened to the Stone?",Dumbledore,66
+Dumbledore,"Relax, dear boy. The stone has been destroyed. My friend Nicholas and I had a little chat and agreed it was best all around.",Harry,66
+Harry,"But Flamel, he'll die, won't he?",Dumbledore,66
+Dumbledore," He has enough Elixir to set his affairs in order. But yes, he will die.",Harry,66
+Harry,"How is it I got the Stone, sir? One minute I was staring in the mirror, and the next...",Dumbledore,66
+Dumbledore,"Ah. You see, only a person who wanted to find the Stone, find it, but not use it, would be able to get it. That is one of my more brilliant ideas. And between you and me thats saying something. ",Harry,66
+Harry,"Does that mean, with the Stone gone, I mean, that Voldemort can never come back?",Dumbledore,66
+Dumbledore," It was because of your mother. She sacrificed herself for you, and that kind of act leaves a mark.  No, no, this kind of mark cannot be seen. It lives in your very skin.Ah, I'm afraid there are ways in which he can return. Harry, do you know why Professor Quirrell couldn't bear to have you touch him? ",Harry,66
+Harry,What is it?,Dumbledore,66
+Dumbledore," Ah. Bertie Bott's Every Flavour Beans. I was most unfortunate in my youth to come across a vomit flavoured one, and since then I have lost my liking for them. But I think I could be safe with a nice toffee... Mm. Alas. Earwax.Love, Harry, love. ",Harry,66
+Harry,"All right there, Ron?",Ron,67
+Ron,All right? You?,Harry,67
+Harry, All right. Hermione?,Ron,67
+Hermione, Never better.,Harry,67
+Dumbledore," And in first place, with 472 points, Slytherin House. In second place, Ravenclaw, with 426 points.  Third place, Hufflepuff, with 352 points. Another year gone. And now, as I understand it, the house cup needs awarding, and the points stand thus. In fourth place, Gryffindor with 312 points. ",Students,68
+Students,Whoo! Yeah!,Dumbledore,68
+Draco,"Nice one, Mate! ",Students,68
+Dumbledore," To Miss Hermione Granger, for the use of cool intellect when others were in great peril, 50 points. Yes, yes, well done Slytherin, well done Slytherin. However, recent events must be taken into account. And I have a few last minute points to award. ",Draco,68
+Harry, Good job.,Dumbledore,68
+Dumbledore," And third, to Mr. Harry Potter, for pure nerve and outstanding courage, I award Gryffindor house 60 points.  that Hogwarts has seen these many years...50 points. Second, to Mr. Ronald Weasley, for the best played game of chess ",Harry,68
+Hermione,We're tied with Slytherin!,Dumbledore,68
+Dumbledore,"And finally, it takes a great deal of bravery to stand up to your enemies, but a great deal more to stand up to your friends. I award 10 points to Neville Longbottom.",Hermione,68
+Dumbledore," Gryffindor wins the House Cup!Assuming that my calculations are correct, I believe that a change of direction is in order. ",Dumbledore,68
+Hagrid,Yes! ,Dumbledore,68
+Seamus,Neville! ,Hagrid,68
+Lee,Yeah! We won!! ,Seamus,68
+Hagrid,"Come on now, hurry up. You'll be late. Train's leaving. Go on. Go on. Come on. Hurry up.",Hermione,69
+Hermione,"Come on, Harry.",Hagrid,69
+Harry,One minute. ,Hermione,69
+Hagrid," This is for you.Thought you were leaving without saying good-bye, didja? ",Harry,69
+Harry,"Thanks, Hagrid. ",Hagrid,69
+Hagrid," Oh, listen, Harry, if that dolt of a cousin of yours, Dudley, gives you any grief, you could always, um, threaten him with a nice pair of ears to go with that tail of his.Oh. Go on...on with you. ",Harry,69
+Harry,"But Hagrid, we're not allowed to do magic away from Hogwarts. You know that.",Hagrid,69
+Hagrid," Off you go.I do. But your cousin don't, do he? Eh? ",Harry,69
+Hermione,"Feels strange to be going home, doesn't it?",Hagrid,69
+Harry,I'm not going home. Not really.,Hermione,69
