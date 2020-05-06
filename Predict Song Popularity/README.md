@@ -33,7 +33,6 @@ Removed Variables with zero variance, zero cardinality, and high cardinality
 Removed columns which had more than 50% missing data
 Removed columns which were not significant for our analysis
 
-![](images/Picture1.png)
 
 ## Data Exploration
 After data cleansing, left with 306297 rows 
@@ -43,6 +42,9 @@ We can see a high correlation between
 duration and  start_of_fade_out
 artist_familiarity and artist_hotness
 song_hotness with artist_familiarity and artist_hotness
+
+
+<img src="images/Picture1.png" width=400 style="vertical-align:middle">
 
 
 ## Feature Selection
