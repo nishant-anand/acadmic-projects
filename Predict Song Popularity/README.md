@@ -1,4 +1,4 @@
-## Song Popularity Prediction
+# Song Popularity Prediction
 
 ## INTRODUCTION
 Music is omnipresent. 
@@ -7,7 +7,7 @@ Users can typically listen to a variety of songs tailored to their personal tast
 There are many stakeholders who would want to predict song popularity like music apps like Spotify and Pandora, venues, advertisements, news, music distributors etc.
 
 
-# Problem Statement and Implications 
+## Problem Statement and Implications 
 Problem Statement: To identify the popularity of a given song
 
 We chose this problem to understand the features that are important in predicting the popularity of a song
