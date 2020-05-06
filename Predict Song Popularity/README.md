@@ -1,6 +1,6 @@
 ## Song Popularity Prediction
 
-# INTRODUCTION
+## INTRODUCTION
 
 Music is omnipresent. 
 
