@@ -33,6 +33,7 @@ Removed Variables with zero variance, zero cardinality, and high cardinality
 Removed columns which had more than 50% missing data
 Removed columns which were not significant for our analysis
 
+![](images/Picture1.png)
 
 ## Data Exploration
 After data cleansing, left with 306297 rows 
