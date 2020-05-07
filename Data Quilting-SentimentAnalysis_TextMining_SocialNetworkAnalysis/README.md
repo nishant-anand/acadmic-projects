@@ -67,37 +67,37 @@ Answers which nodes are at the center of the network.
 <img src="Images/SNA5.png" width= 400><img src="Images/SNA6.png" width= 400></p>
 
   
-  - # Sentiment Analysis
-   ### Harry Potter
-    - Turbulent Character with a large range
-    - Highest around scene 35 (Troll Scene)
-    - Lowest in two points
-    <br>
-      <img src="Images/Picture6.png" width= 500>
-     
-   ### Hermione
-    - Lowest is around scene 35 (Capture By Troll) 
-    - Highest is around scene 56 (her realization of the sorcerer's stone) 
-    <br>
-      <img src="Images/Picture7.png" width= 500>
-  
-   ### Ron
-    - Highest when saving Hermione
-    - Relatively consistent with story progression when compared with other characters
-    <br>
-      <img src="Images/Picture8.png" width= 500>
-  
-   ### All the scenes
-    - Story progression towards a climax and overcomes it
-    <br>
-      <img src="Images/Picture9.png" width= 500>
-  
-   ### All characters
-    - Relationships at lows and highs
-    - They help each other when they need help most
-    - Their personalities complement with each other which make them a great team
-    <br>
-      <img src="Images/Picture10.png" width= 500>
+- # Sentiment Analysis
+ ### Harry Potter
+  - Turbulent Character with a large range
+  - Highest around scene 35 (Troll Scene)
+  - Lowest in two points
+  <br>
+    <img src="Images/Picture6.png" width= 500>
+
+ ### Hermione
+  - Lowest is around scene 35 (Capture By Troll) 
+  - Highest is around scene 56 (her realization of the sorcerer's stone) 
+  <br>
+    <img src="Images/Picture7.png" width= 500>
+
+ ### Ron
+  - Highest when saving Hermione
+  - Relatively consistent with story progression when compared with other characters
+  <br>
+    <img src="Images/Picture8.png" width= 500>
+
+ ### All the scenes
+  - Story progression towards a climax and overcomes it
+  <br>
+    <img src="Images/Picture9.png" width= 500>
+
+ ### All characters
+  - Relationships at lows and highs
+  - They help each other when they need help most
+  - Their personalities complement with each other which make them a great team
+  <br>
+    <img src="Images/Picture10.png" width= 500>
 
 
 
