@@ -29,7 +29,12 @@ What makes HARRY POTTER AND THE SORCERER’S STONE so uniquely successful?
     -Family
     -First Experiences
     -Mysticism/Magic
-    <img src="Images/Picture2.png" width= 500><img src="Images/Picture3.png" width= 500><img src="Images/Picture4.png" width= 500>
+    <p float="left">
+  <img src="Images/Picture2.png" width="200" />
+  <img src="Images/Picture3.png" width="200" /> 
+  <img src="Images/Picture4.png" width="200" />
+</p>
+    
 
   - # Topic Analysis
   <img src="Images/Picture5" width= 500>
