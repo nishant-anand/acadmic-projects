@@ -39,32 +39,90 @@ What makes HARRY POTTER AND THE SORCERER’S STONE so uniquely successful?
 
 
   - # Topic Analysis
-  <img src="Images/Picture5.png" width= 800>
+  <img src="Images/Picture5.png" width= 800 height=500>
   
   
   - # Sentiment Analysis
-   - #Harry Potter
+   ### Harry Potter
     - Turbulent Character with a large range
     - Highest around scene 35 (Troll Scene)
     - Lowest in two points
       <img src="Images/Picture6.png" width= 500>
      
-   - #Hermione
+   #### Hermione
     - Lowest is around scene 35 (Capture By Troll) 
     - Highest is around scene 56 (her realization of the sorcerer's stone) 
       <img src="Images/Picture7.png" width= 500>
   
-   - #Ron
+   ### Ron
     - Highest when saving Hermione
     - Relatively consistent with story progression when compared with other characters
       <img src="Images/Picture8.png" width= 500>
   
-   - #All the scenes
+   ### All the scenes
     - Story progression towards a climax and overcomes it
       <img src="Images/Picture9.png" width= 500>
   
-   - #All characters
+   ### All characters
     - Relationships at lows and highs
     - They help each other when they need help most
     - Their personalities complement with each other which make them a great team
       <img src="Images/Picture10.png" width= 500>
+      
+ - # Social Network Analysis
+ 
+A set of relational method to understand and identify the connections among the nodes, characters and entities .
+
+## Network Components: 
+- Nodes - Characters , Entity , Organization etc. 
+- Edges - Relation 
+
+## Measuring Networks
+Answers which nodes are at the center of the network.
+
+- **Degree**: Number of links held by each node
+<p float="left">
+<img src="Images/SNA1" width= 400><img src="Images/SNA2" width= 400></p>
+- **Closeness**: Scores each node based on their ‘closeness’ to all other nodes within the network.
+<p float="left">
+<img src="Images/SNA3" width= 400><img src="Images/SNA4" width= 400></p>
+- **Betweenness**: Measures the number of times a node lies on the shortest path between other nodes.
+<p float="left">
+<img src="Images/SNA5" width= 400><img src="Images/SNA6" width= 400></p>
+
+
+
+## Character Time Series
+ <img src="Images/Picture6" width= 500>
+ 
+ # Results /Insights
+ Take  people into Harry’s World
+ Further developed the marketing strategy
+
+Images from movie were released sparingly before it hit theaters
+
+Actors’ images became synonymous with the Potter Brand
+The three genres Harry Potter falls
+
+Exponential  Growth
+
+Slopes are almost     unmatched
+2001: A Year of Hardships 
+
+
+Conclusion
+What makes HARRY POTTER AND THE SORCERER’S STONE so uniquely successful?
+It is the right movie appears in the right time, right place
+
+LIMITATIONS
+
+
+Negative and Positive Connotation for Words
+Outside Data Available
+Accuracy with Preprocessing Algorithm
+
+Genre
+
+
+
+
