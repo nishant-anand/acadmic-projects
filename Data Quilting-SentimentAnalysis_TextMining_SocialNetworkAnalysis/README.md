@@ -1,5 +1,6 @@
 # HARRY POTTER AND THE SORCERER’S STONE - MOVIE ANALYSIS
 
+
 ## Background
 What makes HARRY POTTER AND THE SORCERER’S STONE so uniquely successful?
 - Made $32.3 million on its opening day, breaking the single day record
@@ -20,8 +21,8 @@ What makes HARRY POTTER AND THE SORCERER’S STONE so uniquely successful?
     - Dialogue 
     - Recipient 
     - Scene
-    v
-    
+      <img src="Images/Picture1.png" width="600" />
+
 
   - # Frequency Analysis
   Most frequesnt words were 
@@ -29,38 +30,45 @@ What makes HARRY POTTER AND THE SORCERER’S STONE so uniquely successful?
     -Family
     -First Experiences
     -Mysticism/Magic
-    <p float="left">
-  <img src="Images/Picture2.png" width="200" />
-  <img src="Images/Picture3.png" width="200" /> 
-  <img src="Images/Picture4.png" width="200" />
-</p>
-    
+  <p float="left">
+    <img src="Images/Picture2.png" width="400" />
+    <img src="Images/Picture3.png" width="400" /> 
+  </p>
+  <img src="Images/Picture4.png" width="600" />
+
 
   - # Topic Analysis
-  <img src="Images/Picture5" width= 500>
+  <img src="Images/Picture5.png" width= 500>
+  
+  
   - # Sentiment Analysis
    - Harry Potter
     Turbulent Character with a large range
     Highest around scene 35 (Troll Scene)
     Lowest in two points
-     <img src="Images/Picture5" width= 500>
+     <img src="Images/Picture6.png" width= 500>
      
    - Hermione
    Lowest is around scene 35 (Capture By Troll) 
    Highest is around scene 56 (her realization of the sorcerer's stone) 
-  <img src="Images/Picture5" width= 500>
+  <img src="Images/Picture7.png" width= 500>
+  
    - Ron
    Highest when saving Hermione
    Relatively consistent with story progression when compared with other characters
-  <img src="Images/Picture5" width= 500>
+  <img src="Images/Picture8.png" width= 500>
+  
    - All the scenes
    Story progression towards a climax and overcomes it
-  <img src="Images/Picture5" width= 500>
+  <img src="Images/Picture9.png" width= 500>
+  
    - All characters
     Relationships at lows and highs
     They help each other when they need help most
     Their personalities complement with each other which make them a great team
-    <img src="Images/Picture5" width= 500>
+    <img src="Images/Picture10.png" width= 500>
+    
+    
     
   - # Social Network Analysis
 A set of relational method to understand and identify the connections among the nodes, characters and entities .
