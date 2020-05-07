@@ -12,8 +12,9 @@ What makes HARRY POTTER AND THE SORCERER’S STONE so uniquely successful?
 - Pre-processing
 - Frequency Analysis
 - Topic Analysis
-- Sentiment Analysis
 - Social Network Analysis
+- Sentiment Analysis
+
 
   - # Pre-processing
   The data was web scraped from **hogwartsishere** [website](https://www.hogwartsishere.com/library/book/7391/chapter/1/).
@@ -42,6 +43,29 @@ What makes HARRY POTTER AND THE SORCERER’S STONE so uniquely successful?
   - # Topic Analysis
   <img src="Images/Picture5.png" width= 800 height=700>
   
+  - # [Social Network Analysis](https://rpubs.com/nishant12th/553693)
+ 
+ A set of relational method to understand and identify the connections among the nodes, characters and entities .
+
+## Network Components: 
+- Nodes : Characters , Entity , Organization etc. 
+- Edges : Relation 
+
+## Measuring Networks
+Answers which nodes are at the center of the network.
+
+- **Degree** :  Number of links held by each node
+<p float="left">
+<img src="Images/SNA1.png" width= 400><img src="Images/SNA2.png" width= 400></p>
+
+- **Closeness**: Scores each node based on their ‘closeness’ to all other nodes within the network.
+<p float="left">
+<img src="Images/SNA3.png" width= 400><img src="Images/SNA4.png" width= 400</p>
+
+- **Betweenness**: Measures the number of times a node lies on the shortest path between other nodes.
+<p float="left">
+<img src="Images/SNA5.png" width= 400><img src="Images/SNA6.png" width= 400></p>
+
   
   - # Sentiment Analysis
    ### Harry Potter
@@ -74,28 +98,7 @@ What makes HARRY POTTER AND THE SORCERER’S STONE so uniquely successful?
     - Their personalities complement with each other which make them a great team
     <br>
       <img src="Images/Picture10.png" width= 500>
-      
- - # Social Network Analysis
- A set of relational method to understand and identify the connections among the nodes, characters and entities .
 
-## Network Components: 
-- Nodes : Characters , Entity , Organization etc. 
-- Edges : Relation 
-
-## Measuring Networks
-Answers which nodes are at the center of the network.
-
-- **Degree** :  Number of links held by each node
-<p float="left">
-<img src="Images/SNA1.png" width= 400><img src="Images/SNA2.png" width= 400></p>
-
-- **Closeness**: Scores each node based on their ‘closeness’ to all other nodes within the network.
-<p float="left">
-<img src="Images/SNA3.png" width= 400><img src="Images/SNA4.png" width= 400</p>
-
-- **Betweenness**: Measures the number of times a node lies on the shortest path between other nodes.
-<p float="left">
-<img src="Images/SNA5.png" width= 400><img src="Images/SNA6.png" width= 400></p>
 
 
 
