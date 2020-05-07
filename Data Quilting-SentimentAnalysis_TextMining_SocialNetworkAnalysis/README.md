@@ -28,10 +28,10 @@ What makes HARRY POTTER AND THE SORCERER’S STONE so uniquely successful?
 
   - # Frequency Analysis
   Most frequent words were 
-    -Hardship
-    -Family
-    -First Experiences
-    -Mysticism/Magic
+    - Hardship
+    - Family
+    - First Experiences
+    - Mysticism/Magic
   <p float="left">
     <img src="Images/Picture2.png" width="400" />
     <img src="Images/Picture3.png" width="400" /> 
@@ -40,7 +40,7 @@ What makes HARRY POTTER AND THE SORCERER’S STONE so uniquely successful?
 
 
   - # Topic Analysis
-  <img src="Images/Picture5.png" width= 800 height=500>
+  <img src="Images/Picture5.png" width= 800 height=700>
   
   
   - # Sentiment Analysis
@@ -79,28 +79,28 @@ What makes HARRY POTTER AND THE SORCERER’S STONE so uniquely successful?
  A set of relational method to understand and identify the connections among the nodes, characters and entities .
 
 ## Network Components: 
-- Nodes - Characters , Entity , Organization etc. 
-- Edges - Relation 
+- Nodes : Characters , Entity , Organization etc. 
+- Edges : Relation 
 
 ## Measuring Networks
 Answers which nodes are at the center of the network.
 
 - **Degree** :  Number of links held by each node
 <p float="left">
-<img src="Images/SNA1" width= 400><img src="Images/SNA2" width= 400></p>
+<img src="Images/SNA1.png" width= 400><img src="Images/SNA2.png" width= 400></p>
 
 - **Closeness**: Scores each node based on their ‘closeness’ to all other nodes within the network.
 <p float="left">
-<img src="Images/SNA3" width= 400><img src="Images/SNA4" width= 400</p>
+<img src="Images/SNA3.pmg" width= 400><img src="Images/SNA4.png" width= 400</p>
 
 - **Betweenness**: Measures the number of times a node lies on the shortest path between other nodes.
 <p float="left">
-<img src="Images/SNA5" width= 400><img src="Images/SNA6" width= 400></p>
+<img src="Images/SNA5.png" width= 400><img src="Images/SNA6.png" width= 400></p>
 
 
 
 ## Character Time Series
- <img src="Images/Picture6.png" width= 500>
+ <img src="Images/Picture11.png" width= 500>
  
  ## Results /Insights
  
@@ -113,12 +113,12 @@ Answers which nodes are at the center of the network.
 - The three genres Harry Potter falls
 - Exponential  Growth
 - Slopes are almost unmatched
-<img src="Images/Picture6.png" width= 500>
+<img src="Images/Picture12.png" width= 500>
 
 ### 2001: A Year of Hardships 
 <p float="left">
-<img src="Images/Picture6.png" width= 500>
-<img src="Images/Picture6.png" width= 500>
+<img src="Images/Picture13.png" width= 500>
+<img src="Images/Picture14.png" width= 500>
 </p>
 
 ## Conclusion
