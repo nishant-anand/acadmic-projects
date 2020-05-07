@@ -47,16 +47,16 @@ Correlation matrix:
 <img src="images/Picture1.png" width=400 style="vertical-align:middle">
 
 ## Data trends over years
-<img src="images/Picture2.png" width=400 style="vertical-align:middle">
-<img src="images/Picture3.png" width=400 style="vertical-align:middle">
-<img src="images/Picture4.png" width=400 style="vertical-align:middle">
-<img src="images/Picture5.png" width=400 style="vertical-align:middle">
+<p float="left"><img src="images/Picture2.png" width=400>
+<img src="images/Picture3.png" width=400></p>
+<p float="left"><img src="images/Picture4.png" width=400>
+<img src="images/Picture5.png" width=400></p>
 
 ## Number of songs over years
-<img src="images/Picture6.png" width=400 style="vertical-align:middle">
+<img src="images/Picture6.png" width=400>
 
 ## Most Popular songs sorted by song popularity and year 
-<img src="images/Picture7.png" width=400 style="vertical-align:middle">
+<img src="images/Picture7.png" width=400>
 
 
 ## Feature Selection
@@ -67,12 +67,12 @@ By removing these variables we were able to achieve high performance because the
 We have verified these features using RFE (Recursive Feature Elimination)
 
 
-<img src="images/Picture8.png" width=400 style="vertical-align:middle">
+<img src="images/Picture8.png" width=400>
 
 ## Model Selection
-
-<img src="images/Picture9.png" width=400 style="vertical-align:middle">
-<img src="images/Picture10.png" width=400 style="vertical-align:middle">
+<p float="left">
+<img src="images/Picture9.png" width=400>
+<img src="images/Picture10.png" width=400></p>
 
 ## Model Evaluation
 - Logistic Regression gives the best accuracy of all the models tried
@@ -81,7 +81,7 @@ We have verified these features using RFE (Recursive Feature Elimination)
 For Random forest: 100 decision trees
 We tried altering the parameters like max_depth, n_estimators to maximize accuracy
 
-<img src="images/Picture11.png" width=400 style="vertical-align:middle">
+<img src="images/Picture11.png" width=400>
 
 ## Conclusion
 - Predicted song popularity based on song features 
