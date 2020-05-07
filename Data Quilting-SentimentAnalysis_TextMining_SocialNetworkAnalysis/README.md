@@ -36,7 +36,7 @@ What makes HARRY POTTER AND THE SORCERER’S STONE so uniquely successful?
     <img src="Images/Picture2.png" width="400" />
     <img src="Images/Picture3.png" width="400" /> 
   </p>
-  <img src="Images/Picture4.png" width="600" />
+  <img src="Images/Picture4.png" width="800" />
 
 
   - # Topic Analysis
@@ -91,7 +91,7 @@ Answers which nodes are at the center of the network.
 
 - **Closeness**: Scores each node based on their ‘closeness’ to all other nodes within the network.
 <p float="left">
-<img src="Images/SNA3.pmg" width= 400><img src="Images/SNA4.png" width= 400</p>
+<img src="Images/SNA3.png" width= 400><img src="Images/SNA4.png" width= 400</p>
 
 - **Betweenness**: Measures the number of times a node lies on the shortest path between other nodes.
 <p float="left">
@@ -113,12 +113,12 @@ Answers which nodes are at the center of the network.
 - The three genres Harry Potter falls
 - Exponential  Growth
 - Slopes are almost unmatched
-<img src="Images/Picture12.png" width= 500>
+<img src="Images/Picture12.png" width= 600>
 
 ### 2001: A Year of Hardships 
 <p float="left">
-<img src="Images/Picture13.png" width= 500>
-<img src="Images/Picture14.png" width= 500>
+<img src="Images/Picture13.png" width= 400>
+<img src="Images/Picture14.png" width= 400>
 </p>
 
 ## Conclusion
