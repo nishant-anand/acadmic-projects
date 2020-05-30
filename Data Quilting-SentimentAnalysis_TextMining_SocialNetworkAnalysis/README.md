@@ -1,6 +1,7 @@
+# Data Quilting on Harry Potter Script
+Applied data quilting to get deeper insights about the sentiment, significance, and relation between the movie characters and reason out the unique success of the movie based on the genre and time of release using the IMDb dataset of the last 50 years.
 
-# HARRY POTTER AND THE SORCERER’S STONE - MOVIE ANALYSIS
-
+- Skills & Tools: **R, Tableau, Web Scraping, Data Preprocessing, Text Mining, Sentiment Analysis, and Social Network Analysis**
 
 ## Background
 What makes HARRY POTTER AND THE SORCERER’S STONE so uniquely successful?
