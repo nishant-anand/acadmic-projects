@@ -81,26 +81,27 @@ However, this approach of fitting a separate simple linear regression model for 
 
 The combinations are listed below.
 
-<img src="Images/Image11.png" width=400>
+<p align="center"><img src="Images/Image11.png" width=400></p>
 
 The RSE estimate gives a measure of the error of prediction. The lower the RSE, the more accurate the model (on the data in hand). Adjusted R^2 estimates the % of the variation in the measure of the sale price of the ships that can be predicted by independent variables. Based on the Adjusted R Square and Residual Standard Error the combination of age at sale, DWT and Capesize combination emerge out as the best model for multiple linear regression to predict the price of Bet Performer. This resulted in a model where 91.5% of the variation in the sale price of ships could be explained by Age, DWT, and Capesize.
 We went ahead and used this model to predict the price of the Bet Performer. The predicted price as per multiple linear regression came out to be $125.83 M.
 
 <img align="right" src="Images/Image12.png" width=400><img align="left" src="Images/Image13.png" width=400>
 
+
 ##### Predicted price of Bet Performer under various scenarios
 
-<img src="Images/Image14.png" width=400>
+<p align="center"><img src="Images/Image14.png" width=400></p>
 
 
 ### Further Analysis
 Analyzing the whole dataset, there are certain observations to be noticed. We plotted the histogram for the original price for all the 48 ships which were studied.
 
-<img src="Images/Image15.png" width=400>
+<p align="center"><img src="Images/Image15.png" width=400></p>
 
 By observing the plot it was evident that only a few ships were there in the dataset for which the original sale price was in the range of the prediction interval of BetPerformer i.e between $104 M and $147 M.We anticipated that the prediction in this interval would not be accurate as most of the data points fall under  the price less than $100 M . We further went ahead and trained the model with 70% of data and tested the model with 30% of data. The following plot emerged out which showed the high confidence interval for the region.
 
-<img src="Images/Image16.png" width=400>
+<p align="center"><img src="Images/Image16.png" width=400></p>
 
 The dataset was segregated into two buckets, one has a price less than $100 M and the other having price greater than $100 M. For the first set of ships having majority of ships (85%), the average of prediction error was 0.8 (Negative) which signifies that the model worked accurately for the 85 % of the ships and the predicted price was overpriced just by 0.8 M. The results were startling for the other set of ships which accounts for 15 % of dataset . The predicted price deviated a lot from the original price. This accounts because there are very few ships having a price greater than $ 100M. The ships were underpriced by $6.36 M at an average.The above inference was considered to adjust the underpriced prediction. The final price predicted for Bet Performer as per our case study will be **$ 132.19 M**.
 
