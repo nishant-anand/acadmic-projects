@@ -12,3 +12,8 @@ Predicted the probability of having CKD with 82 % accuracy, on the survey conduc
 Predicted the price of a ship with 95 % accuracy based on several KPIs and market approach valuation method.
 
 - Skills & Tools: R, Tableau, Linear regression, KNN regression, Hypothesis Testing and, Predictive Modeling
+
+# Predicting Song Popularity
+Predicted the popularity of songs based on features like loudness, tempo, duration, and how these features changed over the years. 
+
+- Skills & Tools: Python, Scikit-learn, Pandas, NumPy, Seaborn, Matplotlib, Decision Tree, Random Forest, Naive Bayes, SVC.
