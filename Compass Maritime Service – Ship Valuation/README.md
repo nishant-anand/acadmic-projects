@@ -1,6 +1,6 @@
 # Compass Maritime Services LLC: Valuing Ships
 Predicted the price of a ship with 95 % accuracy based on several KPIs and market approach valuation method.
-- Skills & Tools: R, Tableau, Linear regression, KNN regression, Hypothesis Testing and, Predictive Modeling
+- Skills & Tools: **R, Tableau, Linear regression, KNN regression, Hypothesis Testing and, Predictive Modeling**
 <p align="center">
 <img width="800" height="300" src="Images/Image1.jpg" width=400>
 </p>
@@ -8,15 +8,15 @@ Predicted the price of a ship with 95 % accuracy based on several KPIs and marke
 ### Executive Summary
 Compass Maritime Services offers consulting services for clients who are interested in purchasing and selling maritime ships and offshore vessels. Basil Karatzas, director for projects and finance will help the client who is interested in purchasing a ship named BetPerformer, to determine the valuation and negotiation strategy of the ship. This report will show methodology, valuation analysis, concerns, best value and also suggest the bid price for the ship. The value accounts for all variables provided and gives the client the best chance to secure Bet Performer for its current market value.
 
-#### Bet Performer
+### Bet Performer
 Bet Performer is a bulk carrier with 172000 DWT and 12479 Capesize index. The ship is 11 years old and was built in Japan in 1997. This ship has a MAN-B&W engine with an engine power of 14710 KW and has nine holds and hatches. The same ship was sold two years back under a different name Mineral Poterne for $70 million.
 
 <p align="center"><img src="Images/Image2.jpg" width=400></p>
 
-#### Valuation Approach
+### Valuation Approach
 Ships are valued using three different approaches. The first one is the market approach which is the most popular one. As we are valuing our ships using the market approach, we compare the price and other variables with those of other ships that were sold recently in the market. This approach is also called the ‘mark-to-market’ approach. The second approach called income approach which uses the forecast of future cash flows such as daily charter rates to estimate the net present value of the ship. This is also called a ‘mark-to-model’ approach. This approach would most likely produce a rationally deducted price that reflects the value of the vessel. The final approach is known as cost approach where vessels are valued on the assumption that how much it will cost to build the ship from base today in the original conditions and retrofit to our present conditions. This is a less popular approach.   
 
-#### Variables
+### Variables
 Data consists of recent Sale Date, Vessel Name, Price, Sale Year, Year Built, DWT and Capesize. The weight of these ships is measured in deadweight tons and is the sum of cargo, fuel, fresh water, passengers and crew weights. DWT for Capesize is greater than 100000. The baltic dry index calculates multiple shipping costs for different raw materials among various routes.Year built and Age at Sale represents the same factor. Age at Sale is the best predictor of the price when compared to other variables owing to the highest correlation. DWT and Capesize also has a significant correlation with the price of the ship and can affect the price. Sale Date has the least correlation and lowest influence on the price.  In addition to the data collected about similar ships factors such as main engine type, repairs, building company reputation, charter contracts with counter-parties, loading equipment, shipyard and location of the ship at the time sale also influence the price of the ship. The following correlation table shows the relationship between price and the other variables.
 <p align="center"><img src="Images/Image3.png" width=400></p>
 
@@ -57,7 +57,8 @@ As the purpose was to get the closest ship, Sumihou emerged out to be the closes
 #### Limitations
 The data set was quite scattered where there were lots of data points for ships for which the price was less than $100 M. The practical limitations of the algorithm is it just considers the small number of the sample from a dataset for feature matching and prediction. In the above scenario, the algorithm considers just the 5 closest ships to predict the price of BetPerformer. There are lot of observations and outliers which are not considered, thus it's not the best approach to predict the price. It can be used as one of the methods to find the best reference transaction or the closest ship with respect to features compared with those of Bet Performer
  
-In order to predict the price of Bet Performer ,couple of approaches were considered.
+ 
+*In order to predict the price of Bet Performer ,couple of approaches were considered.*
 - Simple Linear Regression
 - Multiple  Linear Regression
 
@@ -79,16 +80,16 @@ Simple linear regression is a good approach for predicting the dependent variabl
 
 However, this approach of fitting a separate simple linear regression model for each predictor is not entirely satisfactory. First of all, it is unclear how to make a single prediction of Price given levels of the three variables Age at Sale, Deadweight tonnage (DWT) and Capesize Index, since each of the variables is associated with a separate regression equation. Second, each of the three regression equations ignores the other two variables in forming estimates for the regression coefficients. If these independent variables are correlated with each other in the ship data, then this can lead to very misleading estimates of the individual effects on Price. Instead of fitting a separate simple linear regression model for each predictor, a better approach is to directly accommodate multiple predictors. We can do this by giving each predictor a separate slope coefficient in a single model. We can go for 4 different predictor combinations for our Multiple Regression model.
 
-The combinations are listed below.
+*The combinations are listed below.*
 
 <p align="center"><img src="Images/Image11.png" width=400></p>
 
 The RSE estimate gives a measure of the error of prediction. The lower the RSE, the more accurate the model (on the data in hand). Adjusted R^2 estimates the % of the variation in the measure of the sale price of the ships that can be predicted by independent variables. Based on the Adjusted R Square and Residual Standard Error the combination of age at sale, DWT and Capesize combination emerge out as the best model for multiple linear regression to predict the price of Bet Performer. This resulted in a model where 91.5% of the variation in the sale price of ships could be explained by Age, DWT, and Capesize.
 We went ahead and used this model to predict the price of the Bet Performer. The predicted price as per multiple linear regression came out to be $125.83 M.
 
-<p align="center"><img align="right" src="Images/Image12.png" width=400><img align="left" src="Images/Image13.png" width=400></p>
+<img align="right" src="Images/Image12.png" width=400 height=300><img align="left" src="Images/Image13.png" width=400>
 
-<p align="center"><img src="Images/Image14.png" width=400 title="Predicted price of Bet Performer under various scenarios"></p>
+<img src="Images/Image14.png" width=400 title="Predicted price of Bet Performer under various scenarios">
 
 ### Further Analysis
 Analyzing the whole dataset, there are certain observations to be noticed. We plotted the histogram for the original price for all the 48 ships which were studied.
@@ -103,4 +104,4 @@ The dataset was segregated into two buckets, one has a price less than $100 M an
 
 
 ### Conclusion
-The purpose of analysis was to come up with the predicted price of Bet Performer which would fall under both the client and the seller's satisfaction. We did a detailed study using the Market Approach as the base and came to a final price of $ 132.19M for the Bet Performer which we think will be the amount to bid and successfully buy the bulk carrier ship which the client had interest in.
+The purpose of analysis was to come up with the predicted price of Bet Performer which would fall under both the client and the seller's satisfaction. We did a detailed study using the Market Approach as the base and came to a final price of **$ 132.19M** for the Bet Performer which we think will be the amount to bid and successfully buy the bulk carrier ship which the client had interest in.
