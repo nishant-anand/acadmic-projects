@@ -1,4 +1,7 @@
-# Song Popularity Prediction
+# Predicting Song Popularity
+Predicted the popularity of songs based on features like loudness, tempo, duration, and how these features changed over the years. 
+
+- Skills & Tools: **Python, Scikit-learn, Pandas, NumPy, Seaborn, Matplotlib, Decision Tree, Random Forest, Naive Bayes, SVM**
 
 ## INTRODUCTION
 Music is omnipresent. 
