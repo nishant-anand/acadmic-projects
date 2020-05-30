@@ -86,13 +86,9 @@ The combinations are listed below.
 The RSE estimate gives a measure of the error of prediction. The lower the RSE, the more accurate the model (on the data in hand). Adjusted R^2 estimates the % of the variation in the measure of the sale price of the ships that can be predicted by independent variables. Based on the Adjusted R Square and Residual Standard Error the combination of age at sale, DWT and Capesize combination emerge out as the best model for multiple linear regression to predict the price of Bet Performer. This resulted in a model where 91.5% of the variation in the sale price of ships could be explained by Age, DWT, and Capesize.
 We went ahead and used this model to predict the price of the Bet Performer. The predicted price as per multiple linear regression came out to be $125.83 M.
 
-<img align="right" src="Images/Image12.png" width=400><img align="left" src="Images/Image13.png" width=400>
+<p align="center"><img align="right" src="Images/Image12.png" width=400><img align="left" src="Images/Image13.png" width=400></p>
 
-
-##### Predicted price of Bet Performer under various scenarios
-
-<p align="center"><img src="Images/Image14.png" width=400></p>
-
+<p align="center"><img src="Images/Image14.png" width=400 title="Predicted price of Bet Performer under various scenarios"></p>
 
 ### Further Analysis
 Analyzing the whole dataset, there are certain observations to be noticed. We plotted the histogram for the original price for all the 48 ships which were studied.
